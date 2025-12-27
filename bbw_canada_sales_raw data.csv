@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,Date,Category,Gender,Age,Location,Quantity,Sales,Profit,Channel
+TXN-2024-000522,CUST-0058,"Nov 22, 2024",Wallflower & Air Freshener,,61,Lethbridge (AB),1,$12.11,CAD 6.63,Online
+TXN-2023-000738,CUST-0312,10/07/2023,Body Care,N/A,,Vaughan  Ontario,2,N/A,17.39,Online
+TXN-2024-000741,CUST-0309, 05/20/2024  ,Men's,F,29,Toronto ON,1,"29,53",13.19,Online
+TXN-2024-000661,CUST-0127,04/10/2024,Wallflower & Air Freshener,FEMALE,38,Kitchener Ontario,1,7.33,CAD 2.94,Store
+TXN-2023-000412,CUST-0005,14/06/2023,Wallflower & Air Freshener,male,59,Vaughan (Ontario),2,CAD 54.88,20.71,Online
+TXN-2024-000679,CUST-0252,"Dec 05, 2024",Candles,,55,"Calgary,Alberta",2,"106,03","42,40",Store
+TXN-2023-000627,CUST-0235,06-Aug-2023,Candles,FEMALE,65,"Gatineau, Quebec",2,15.74,$7.12,Store
+TXN-2023-000514,CUST-0253,2023-03-22,Men's,M,56,Ottawa Ontari0,4,"96,46",$24.26,Store
+TXN-2024-000860,CUST-0095,10-Jun-2024,Wallflower & Air Freshener,MALE,39,"Mississauga, Ontario",1,24.32,8.65,Online
+TXN-2024-000137,CUST-0248,21/07/2024,Wallflower & Air Freshener,U,50,Alberta - Edmonton,-4,-50.65,-16.77,Store
+Txn-2023-000812,CUST-0305,2023.01.11,Body Care,M,twenty,Saskatoon-SK,1,23.1,"11,04",Store
+TXN-2024-000077,CUST-0070,25/12/2024,Wallflower & Air Freshener,M,14,"Vancouver,British Columbia",2,$46.39,N/A,Online
+TXN-2023-000637,CUST-0102,02/07/2023,Men's,female,69, Laval  Quebec ,1,CAD 16.21,8.67,Store
+TXN-2023-000593,CUST-0211,2023.04.21,Candles,Female,60,Mississauga (Ontario),1,$8.39,$2.65,Store
+TXN-2023-000939,CUST-0293,11/18/2023,Wallflower & Air Freshener,F,54,Laval  Quebe,1,"8,28",1.43,Online
+TXN-2023-000900,CUST-0086 ,01/16/2023,Men's,female,40,Ontario - Ottawa,1,$18.44,7.13,Online
+TXN-2024-000281,CUST-0099,2024.03.08,Men's,FEMALE,65,"Laval,Quebe",1,16.02,8.09,Store
+TXN-2024-000884,CUST-0012,2024.05.29,Candles,FEMALE,21,Laval Quebec,2,54.5,28.76,Store
+TXN-2023-000762,CUST-0051,27/04/2023,Candles,F,19,"London,ONTARIO",-2,$-13.81,"-19,81",Store
+TXN-2023-000320,CUST-0211,2023-11-07,Men's,female,66,Longueuil (Quebec),3,69.53,CAD 29.48,Store
+Txn-2024-000550,CUST-0170,09-May-2024,Body Care,Female,50,Red Deer-AB,1,23.52,12.51,Online
+TXN-2023-000175,CUST-0140,14-Mar-2023,Body Care,MALE,71,Kelowna  BRITISH COLUMBIA,2,20.26,5.4,Online
+TXN-2024-000372,CUST-0053,09/06/2024,Wallflower & Air Freshener,M,18,Winnipeg (MANITOBA),1,4.92,2.78,Store
+TXN-2024-000528,CUST-0061,28-Apr-2024,Hand Soap & Sanitizer,F,44,"Markham,ON",2,15.32,6.15,Online
+Txn-2024-000211,CUST-0312,2024-07-03,Men's,Prefer not to say,47,Halifax (ns),3,CAD 99.20,31.93,Online
+TXN-2024-000236,CUST-0034 ,"Nov 11, 2024",Body Care,MALE,74,"Longueuil,Quebec",1, 15.43 CAD ,7.69,Online
+TXN-2023-000102,CUST-0061,4/7/2023,Candles,Male,44,"Calgary,Albert",1,31.02,11.15,Online
+TXN-2024-000652,CUST-0203,25/11/2024,Wallflower & Air Freshener,FEMALE,46,"Longueuil,Quebe",3,48.76,27.2,Store
+TXN-2024-000903,CUST-0287,"May 12, 2024",Candles,MALE,43,Edmonton AB,4,47.77,29.42,Store
+TXN-2023-000948,CUST-0164,04-Mar-2023,Wallflower & Air Freshener,Male,48,"Richmond,British Columbi",1, 13.96 CAD ,4.71,Store
+TXN-2023-000347,CUST-0225,16-Sep-2023,Candles,F,44,"Sherbrooke,Quebe",1,44.26,29.12,Online
+TXN-2024-000140,CUST-0071,16-Jul-2024,Hand Soap & Sanitizer,M,73,Windsor  Ontario,1,$13.32,4.92,Store
+TXN-2023-000622,CUST-0136,03/07/2023,Candles,N/A,31,Brampton / Ontari,1,"36,69",20.08,Store
+TXN-2023-000500,CUST-0223,"Feb 03, 2023",Men's,FEMALE,34,"Mississauga,ONTARIO",1,$18.94,9.78,Online
+TXN-2023-000371,CUST-0279 ,2023.12.25,Hand Soap & Sanitizer,F,14,St. John's  Newfoundland and Labrado,1,8.0,2.86,Online
+TXN-2024-000199,CUST-0110,"Dec 21, 2024",Candles,Male,Thirty,Laval-qc,3,$210.48,,Online
+TXN-2023-000688,CUST-0155,05/11/2023,Candles,Female,38,on - Vaughan,3,124.14,47.04,Store
+TXN-2024-000585,CUST-0193, 2024.08.12  ,Hand Soap & Sanitizer,FEMALE,26,Quebec - Longueuil,2,CAD 37.33,8.86,Store
+TXN-2024-000902,CUST-0211,02/07/2024,Wallflower & Air Freshener,F,33,London-on,1,$4.84,2.2,Online
+TXN-2024-000060,CUST-0316,2024-02-30,Candles,FEMALE,44,"Sherbrooke, Quebec",2,94.83,$46.75,Online
+TXN-2023-000329,CUST-0124,29-Jan-2023,Men's,male,57,Surrey-BRITISH COLUMBIA,2,26.02,7.22,Online
+TXN-2023-000097,CUST-0152,01/25/2023,Candles,N/A,75,"Vancouver, British Columbia",1,$40.20,$17.03,Store
+TXN-2024-000313,CUST-0161,2024-06-08,Hand Soap & Sanitizer,Male,20,Saskatoon-Saskatch3wan,1,22.47, 10.57 CAD ,Online
+TXN-2024-000413,CUST-0125, 01/20/2024  ,Men's,MALE,42,Kelowna / British Columbi,1,—,$6.70,Online
+TXN-2023-000300,CUST-0229,25/03/2023,Body Care,M,19, Windsor  ONTARIO ,5,82.49,CAD 19.50,Store
+TXN-2023-000278,CUST-0309,7/6/2023,Men's,male,50,Red Deer  Alberta,1,10.37,5.19,Store
+TXN-2024-000925,CUST-0028,"Jul 24, 2024",Body Care,F,68,"Montreal,qc",2,39.19, 11.50 CAD ,Store
+TXN-2024-000602,CUST-0217,2024.12.09,Men's,male,34,"Burnaby,British Columbia",3,,$49.38,Online
+TXN-2023-000440,CUST-0291,2023.01.24,Hand Soap & Sanitizer,Female,53,Sherbrooke  Quebe,1,19.01,$4.43,Store
+TXN-2024-000838,CUST-0106, 31-May-2024  ,Candles,male,31, Sherbrooke  Quebec ,2,70.7,35.2,Store
+TXN-2024-000571,CUST-0170,01/06/2024,Wallflower & Air Freshener,Male,26,Windsor (ON),6,77.78,21.86,Online
+TXN-2024-000880,CUST-0260,21-Jan-2024,Men's,Prefer not to say,25,Vancouver (BRITISH COLUMBIA),2,$64.26,22.9,Online
+TXN-2024-000262,CUST-0297,06-May-2024,Hand Soap & Sanitizer,F,54,Brandon  Manitoba,3,"17,59",CAD 8.19,Store
+TXN-2023-000579,CUST-0149,"Aug 10, 2023",Men's,F,53,SASKATCHEWAN - Saskatoon,2,47.65,10.86,Store
+TXN-2023-000024,Cust-0225,2023-12-08,Hand Soap & Sanitizer,Male,33,Kitchener on,1,CAD 4.36,1.78,Online
+TXN-2023-000031,CUST-0237,2023-04-09,Hand Soap & Sanitizer,FEMALE,21,Mississauga Ontari,1,$3.63,2.22,Store
+TXN-2024-000618,CUST-0247 ,04/10/2024,Body Care,F,35,Victoria / BRITISH COLUMBIA,2,"10,79","3,82",Store
+TXN-2024-000011,CUST-0113,2024-10-01,Men's,Male,13,"Sherbrooke, Quebe",3,"91,13",$44.45,Online
+TXN-2024-000222,CUST-0226,09/25/2024,Wallflower & Air Freshener,N/A,54,Kitchener  ONTARIO,1, 28.04 CAD ,11.84,Online
+TXN-2023-000821,CUST-0207,2023.05.15,Wallflower & Air Freshener,Male,22,"Markham,ON",1,13.57,2.75,Store
+TXN-2024-000297,CUST-0153 ,24-May-2024,Body Care,MALE,38,"Toronto,Ontario",1,"17,52",4.68,Online
+TXN-2024-000055,CUST-0020,2024.03.30,Hand Soap & Sanitizer,FEMALE,23,Quebec - Longueuil,3,29.51,16.69,Store
+TXN-2024-000543,CUST-0083,23-Oct-2024,Hand Soap & Sanitizer,male,18,"Surrey, bc",-1,-4.59,-1.16,Online
+TXN-2024-000210,CUST-0230,2024-02-11,Wallflower & Air Freshener,F,51,Saskatoon / Saskatchewan,1,$12.04,6.94,Store
+TXN-2023-000605,CUST-0118,08-Dec-2023,Body Care,Female,15,Sherbrooke / QC,1,30.48,11.06,Online
+TXN-2023-000693,CUST-0196 ,2023-10-05,Men's,male,34,"Toronto,Ontario",2, 35.83 CAD ,13.29,Store
+TXN-2023-000663,CUST-0267,11/26/2023,Men's,FEMALE,46,Toronto (Ontario),1,28.11,$7.10,Store
+TXN-2023-000867,CUST-0177,"Aug 26, 2023",Hand Soap & Sanitizer,F,45, Calgary (ALBERTA) ,1,CAD 12.10, 6.17 CAD ,Online
+TXN-2024-000071,CUST-0277,06/08/2024,Hand Soap & Sanitizer,N/A,27,"London,on",1,4.2,$1.27,Store
+TXN-2024-000544,CUST-0278,01/13/2024,Candles,FEMALE,51,Hamilton / ON,1,19.67,"10,01",Store
+TXN-2023-000108,CUST-0085,2023.12.28,Body Care,male,14,Montreal QUEBEC,3,95.21,45.8,Online
+TXN-2023-000494,CUST-0115,"Apr 12, 2023",Hand Soap & Sanitizer,male,20, Brampton (Ontario) ,1,11.52,"6,79",Online
+TXN-2023-000591,CUST-0133,2023.06.02,Candles,FEMALE,42,"Vancouver, BritishColumbia",6,$272.41,154.34,Store
+TXN-2023-000742,CUST-0083 ,2023.05.20,Candles,Female,N/A,Ontario - Kitchener,2,40.87,24.38,Online
+TXN-2023-000293,CUST-0024,05/31/2023,Body Care,,44,"Longueuil, Quebec",2,26.84,13.53,Online
+TXN-2023-000290,CUST-0060 ,25-Jan-2023,Wallflower & Air Freshener,MALE,58,Vaughan  ON,1,"6,28",2.27,Store
+TXN-2024-000653,CUST-0041,18-May-2024,Hand Soap & Sanitizer,Male,22,Quebec City (Quebec),2,41.58,$13.46,Online
+TXN-2023-000040,CUST-0235,2023-01-26,Body Care,Male,48,Ottawa (Ontario),2,22.25,5.33,Store
+TXN-2023-000590,CUST-0294,05/02/2023,Candles,F,51,Montreal-Quebec,1,14.01,8.89,Store
+TXN-2024-000308,CUST-0194,2024-12-13,Hand Soap & Sanitizer,Male,32,Toronto / Ontari,5,CAD 147.91,43.69,Store
+TXN-2023-000680,CUST-0316,2023.10.21,Body Care,M,13,Laval Quebec,2,50.66,23.4,Online
+TXN-2023-000067,CUST-0128,"Mar 23, 2023",Men's,Female,22,Calgary  Albert,3,60.83,25.83,Store
+TXN-2023-000276,CUST-0119,10/05/2023,Men's,U,44,Calgary-Albert,1,CAD 29.34,10.66,Store
+TXN-2023-000068,CUST-0305,"Feb 06, 2023",Men's,FEMALE,59,Vaughan  Ontari,4,107.08,$40.64,Online
+TXN-2023-000319,CUST-0317 ,18-Feb-2023,Body Care,MALE,28,"London, ON",4,"90,98",43.04,Online
+TXN-2023-000549,CUST-0220,2023.12.03,Body Care,male,26,Kitchener-on,4,25.04,$11.89,Online
+TXN-2024-000592,cust-0111,2024.06.20,Body Care,MALE ,49, Hamilton  Ontari,2,26.81,13.33,Online
+TXN-2023-000715,CUST-0071,04-Nov-2023,Wallflower & Air Freshener,MALE,73,London / Ontario,1,29.9,11.89,Store
+TXN-2023-000754,CUST-0172,"May 02, 2023",Men's,M,61,Sydney (Nova Scoti),2,"79,79",26.98,Online
+TXN-2023-000328,CUST-0301,24-Oct-2023,Candles,FEMALE,21,Calgary (AB),4,"114,80",70.55,Store
+TXN-2024-000383,CUST-0024,15-Jun-2024,Body Care,MALE,47,London ON,1,,$5.03,Store
+TXN-2023-000452,CUST-0253,09/12/2023,Wallflower & Air Freshener,FEMALE,41,Saskatoon  SK,3,—,$26.05,Online
+TXN-2024-000523,CUST-0269,04-Apr-2024,Body Care,female,48,London Ontario,2,57.77,"29,37",Store
+TXN-2023-000219,CUST-0104,26/05/2023,Hand Soap & Sanitizer,F,70,Toronto (Ontario),4,$78.27,26.91,Store
+TXN-2023-000788,CUST-0065,2023-02-11,Hand Soap & Sanitizer,F,34,"Quebec City, Quebec",1,CAD 15.61,7.14,Store
+TXN-2024-000437,CUST-0120,2024-06-25,Men's,Male,38,Red Deer / Alberta,2,$32.16,11.91,Store
+TXN-2023-000765,CUST-0165,21/04/2023,Candles,female,40,Quebec - Sherbrooke,1,CAD 11.22,5.37,Store
+TXN-2024-000089,CUST-0195,2024-12-26,Men's,MALE,51, Quebe - Longueuil ,2,$75.47,23.54,Online
+TXN-2023-000064,CUST-0076,2023-03-30,Candles,Male,71,Quebec City QUEBEC,2,26.89,$12.86,Store
+TXN-2024-000827,CUST-0256,2024-01-24,Hand Soap & Sanitizer,,56,"Vaughan, Ontario",2,21.78,13.3,Online
+TXN-2024-000717,CUST-0068,28-Oct-2024,Men's,N/A,69,Richmond / BritishColumbia,1,24.11,14.31,Store
+TXN-2024-000352,CUST-0006,04/24/2024,Body Care,Male,23,Kitchener / Ontario,5, 21.22 CAD ,10.22,Store
+TXN-2023-000937,CUST-0276,2023-08-25,Body Care,U,51,"Surrey,British Columbia",2,35.73,12.58,Online
+TXN-2024-000257,CUST-0188,04/03/2024,Men's,FEMALE,52,"Laval, Quebec",1,19.72,5.37,Store
+TXN-2024-000636,CUST-0185,10/24/2024,Hand Soap & Sanitizer,F,17,Laval QUEBEC,2,$25.82,8.66,Online
+TXN-2023-000645,CUST-0227,05/04/2023,Hand Soap & Sanitizer,Male,27,"St. John's, NL",1,13.13,4.72,Store
+TXN-2024-000555,CUST-0315,2024-10-10,Candles,male,??,Lethbridge Albert,2,16.55,6.78,Store
+Txn-2024-000125,CUST-0197,"Apr 04, 2024",Men's,F,74,Brampton  Ontario,3,24.02,11.88,Store
+TXN-2023-000169,CUST-0180,2023-09-02,Body Care,female,64,Edmonton / Alberta,2,$39.89,CAD 17.11,Online
+TXN-2024-000918,CUST-0160,05/07/2024,Men's,FEMALE,70,"Markham,Ontario",2, 25.44 CAD ,$13.27,Online
+TXN-2023-000529,CUST-0286,2023-12-03,Body Care,female,27,Sydney / NovaScotia,1,13.88,$9.18,Store
+TXN-2024-000824,CUST-0091,"Jan 10, 2024",Candles,Male,68," Sherbrooke,Quebec ",1,52.53,CAD 18.58,Store
+TXN-2023-000407,CUST-0060,17-Apr-2023,Men's,F,70,"Ottawa, ON",2,"31,64",13.7,Store
+TXN-2024-000817,CUST-0056,2024.02.23,Wallflower & Air Freshener,FEMALE,35,Mississauga on,2,34.19,CAD 15.13,Store
+TXN-2024-000087,CUST-0139,"Dec 15, 2024",Men's,MALE,42,Sherbrooke (Quebe),1,30.43,11.48,Online
+TXN-2024-000433,CUST-0045,"Aug 10, 2024",Body Care,Male,51, Lethbridge / ALBERTA ,5,72.21,"38,23",Online
+TXN-2023-000185,CUST-0262, 2023.06.24  ,Body Care,N/A,65,Albert - Edmonton,3,56.12,$20.67,Store
+TXN-2024-000251,CUST-0255,2024-11-02,Hand Soap & Sanitizer,FEMALE,37,Gatineau  Qu3b3c,1,4.48,1.65,Store
+TXN-2024-000535,CUST-0064,"Jul 24, 2024",Men's,Male,66,"Vancouver, BRITISH COLUMBIA",2,15.89,6.38,Online
+TXN-2023-000295,CUST-0196,"Dec 19, 2023",Hand Soap & Sanitizer,FEMALE,16,Kitchener-ON,2,$42.60, 16.24 CAD ,Online
+TXN-2024-000893,CUST-0238,2024-08-31,Men's,F,57,Markham (on),1,8.25,$3.78,Store
+TXN-2024-000426,CUST-0232,2024-08-30,Wallflower & Air Freshener,U,66,Toronto-ON,1,22.65,7.02,Store
+TXN-2023-000714,CUST-0199,2023.08.11,Hand Soap & Sanitizer,female,52, Calgary-ab ,1,14.5,6.17,Store
+TXN-2024-000261,CUST-0057,2024.05.07,Hand Soap & Sanitizer,female,59,"Burnaby, British Columbi",2,CAD 25.58,CAD 7.01,Online
+TXN-2023-000238,CUST-0066,21/04/2023,Hand Soap & Sanitizer,FEMALE,63,"Vaughan, Ontario",1,$13.61,6.78,Store
+TXN-2023-000560,CUST-0020,2023-06-07,Hand Soap & Sanitizer,M,28,Sherbrooke (qc),2,18.62,8.42,Store
+TXN-2024-000584,CUST-0135,"Aug 12, 2024",Hand Soap & Sanitizer,MALE,65,Vaughan Ontario,1,2.92,1.76,Store
+TXN-2024-000446,CUST-0288,26/01/2024,Candles,N/A,43, Regina (SASKATCHEWAN) ,1,$36.55,13.52,Online
+TXN-2024-000868,CUST-0189,14/01/2024,Men's,FEMALE,53,Lethbridge AB,2,$13.68,3.85,Store
+TXN-2023-000801,CUST-0303,03-Oct-2023,Candles,MALE,29,Victoria-British Columbia,1,9.8,4.07,Store
+TXN-2023-000600,CUST-0296,2023.10.13,Body Care,,60,Montreal / QUEBEC,1,17.06, 6.15 CAD ,Store
+TXN-2024-000850,CUST-0100 ,08/07/2024,Wallflower & Air Freshener,Female,75,Mississauga-Ontario,4,99.43, 28.53 CAD ,Online
+TXN-2024-000266,CUST-0288,18-Dec-2024,Candles,MALE,??,Vaughan-Ontario,1,33.66,15.89,Online
+TXN-2023-000473,cust-0138,2023-09-17,Wallflower & Air Freshener,male ,19, Halifax (Nova Scoti),1, 14.16 CAD ,CAD 6.68,Online
+TXN-2023-000530,CUST-0187,04/07/2023,Hand Soap & Sanitizer,FEMALE,44,Markham  Ontario,2,CAD 8.47,4.21,Store
+TXN-2023-000056,CUST-0262,"Apr 08, 2023",Men's,Female,14," Gatineau, Quebec ",5,$64.98,26.48,Store
+TXN-2024-000121,CUST-0242,"Sep 10, 2024",Wallflower & Air Freshener,N/A,??,Kitchener-on,2,$62.83,33.57,Store
+TXN-2024-000216,CUST-0192,30-Nov-2024,Wallflower & Air Freshener,F,68, Vancouver British Columbia ,3,37.16,$17.01,Online
+TXN-2023-000026,CUST-0035,06/14/2023,Candles,F,22,Toronto / Ontario,2,105.45,49.12,Store
+TXN-2024-000073,CUST-0106 ,"Feb 29, 2024",Body Care,M,25,"Kitchener,Ontari",1,6.35,1.93,Online
+TXN-2024-000045,CUST-0142,2024-10-09,Wallflower & Air Freshener,Prefer not to say,20,Ottawa-Ontari,1,$19.08,"10,60",Store
+TXN-2024-000248,CUST-0239 ,03/04/2024,Candles,MALE,47,Red Deer-ab,3,102.93,38.0,Store
+TXN-2024-000722,CUST-0314,2024.04.21,Men's,Male,26,"Longueuil, qc",1,35.18,N/A,Store
+TXN-2023-000282,CUST-0045,09-May-2023,Hand Soap & Sanitizer,F,38,Vaughan-0n,1,11.16,4.33,Online
+TXN-2024-000894,CUST-0064,"Aug 01, 2024",Wallflower & Air Freshener,Male,70,Laval / QUEBEC,4,58.47,25.28,Online
+TXN-2024-000915,CUST-0195,26/01/2024,Hand Soap & Sanitizer,Female,20,Mississauga ONTARIO,1,13.58,$4.12,Online
+TXN-2024-000811,CUST-0113,05/17/2024,Hand Soap & Sanitizer,Female,52,"Sydney, NS",4,CAD 10.09,CAD 3.81,Online
+TXN-2023-000245,CUST-0153,2023-02-08,Wallflower & Air Freshener,F,36,Sherbrooke  qc,1,13.55, 4.32 CAD ,Online
+TXN-2023-000823,CUST-0274,2023-05-07,Hand Soap & Sanitizer,U,41,St. John's (Newfoundland and Labrado),2,10.14, 2.72 CAD ,Online
+TXN-2023-000322,CUST-0318,03/14/2023,Candles,female,14,"Brampton,Ontari",6, 332.85 CAD ,$126.37,Online
+TXN-2023-000644,CUST-0317,2023-02-18,Hand Soap & Sanitizer,FEMALE,74,Ottawa / Ontario,3,45.36,23.44,Store
+TXN-2023-000159,CUST-0155,29-Sep-2023,Men's,F,56,Kelowna  BC,1, 18.81 CAD , 9.07 CAD ,Online
+TXN-2024-000029,CUST-0028,2024-01-08,Wallflower & Air Freshener,FEMALE,40,Ontario - Kitchener,1,15.14, 3.62 CAD ,Store
+TXN-2023-000430,CUST-0222 ,"Jan 31, 2023",Men's,M,28,"Quebec City,QUEBEC",3,120.81,$46.17,Online
+TXN-2024-000942,CUST-0153,05/08/2024,Body Care,F,34, Brandon Manitoba ,1,"9,14",2.28,Online
+TXN-2024-000463,CUST-0138,22/11/2024,Candles,F,74,QC - Laval,3,CAD 53.52,CAD 32.19,Store
+TXN-2024-000310,Cust-0125,"May 12, 2024",Wallflower & Air Freshener,Female,68, Quebec - Sherbrooke ,2,$18.96,10.25,Store
+TXN-2023-000698,CUST-0205,10-Jun-2023,Body Care,Male,38,Brandon-Manitob,1,$23.59,10.41,Online
+TXN-2024-000061,CUST-0108,2024-02-30,Hand Soap & Sanitizer,male,62,Hamilton  ONTARIO,1,14.22,3.81,Online
+TXN-2023-000885,CUST-0100,09/23/2023,Wallflower & Air Freshener,M,18,Ontario - Vaughan,3,$11.59,5.64,Online
+TXN-2023-000596,CUST-0020, 2023-01-28  ,Men's,MALE,27,Longueuil-Quebec,2,CAD 92.74,24.97,Store
+TXN-2023-000768,CUST-0146,12/07/2023,Candles,F,28,Quebec - Laval,1,—,N/A,Store
+TXN-2024-000650,CUST-0241,05-Aug-2024,Hand Soap & Sanitizer,MALE,N/A,"Red Deer, Alberta",2, 11.07 CAD ,CAD 4.05,Store
+TXN-2024-000651,CUST-0306,2024-11-13,Hand Soap & Sanitizer,male,58,"Gatineau,qc",2,11.27,$3.98,Store
+TXN-2023-000866,CUST-0165,02/07/2023,Candles,MALE,13," Kelowna, British Columbia ",1,"34,31",15.79,Online
+TXN-2024-000669,CUST-0099,19-Aug-2024,Wallflower & Air Freshener,MALE,17, Red Deer-Alberta ,1,9.32,3.6,Store
+TXN-2023-000299,CUST-0315,21/03/2023,Wallflower & Air Freshener,Male,33,Montreal QC,2,29.15,CAD 13.18,Store
+TXN-2024-000690,CUST-0071,10/09/2024,Candles,Male,70,Laval (qc),1,34.59,15.64,Online
+TXN-2023-000315,CUST-0292,"Oct 16, 2023",Wallflower & Air Freshener,male,66,Quebec City  Quebec,2,10.86,$4.81,Store
+TXN-2024-000311,CUST-0239,12/23/2024,Wallflower & Air Freshener,female,56, Quebec - Laval ,2,$30.39,7.91,Online
+TXN-2023-000362,CUST-0313,2023.11.29,Wallflower & Air Freshener,M,21,British Columbia - Victoria,1,$21.57,5.61,Online
+TXN-2023-000480,CUST-0251,25/02/2023,Hand Soap & Sanitizer,FEMALE,59, BritishColumbia - Surrey ,1,15.18,5.16,Online
+TXN-2023-000111,CUST-0301,08-Jun-2023,Men's,female,61," Brampton, Ontario ",1,27.77,9.39,Store
+TXN-2024-000884,CUST-0012,2024.05.29,Candles,FEMALE,21,Laval Quebec,2,54.5,28.76,Store
+TXN-2023-000487,CUST-0056,2023-02-30,Hand Soap & Sanitizer,F,71,Brandon (Manit0ba),1,9.13,3.76,Online
+TXN-2023-000364,CUST-0157 ,26/08/2023,Candles,female,65,Montreal-Quebec,1,25.47,12.82,Store
+TXN-2024-000255,CUST-0148,"Apr 10, 2024",Men's,MALE,61,London (Ontari),3,46.58,19.4,Store
+TXN-2024-000260,CUST-0273,14-Oct-2024,Men's,female,67,"Victoria, BRITISH COLUMBIA",1,32.93,17.39,Online
+TXN-2024-000803,CUST-0254,"Dec 07, 2024",Candles,Female,66,Victoria  British Columbia,2,"90,23",CAD 21.74,Online
+TXN-2023-000678,CUST-0270, 2023-09-03  ,Wallflower & Air Freshener,Prefer not to say,68,Sherbrooke qc,2,20.11,7.21,Online
+TXN-2023-000495,CUST-0238,"Oct 19, 2023",Hand Soap & Sanitizer,F,20,Windsor Ontari,2,N/A,4.29,Store
+TXN-2023-000671,CUST-0096,03/11/2023,Men's,MALE,28,Brampton-Ontario,2,$61.81,CAD 37.47,Online
+TXN-2024-000378,CUST-0251,2024.02.19,Wallflower & Air Freshener,female,32,"Surrey,British Columbia",1,13.48,4.38,Store
+TXN-2023-000527,CUST-0041,"Dec 15, 2023",Candles,MALE,66,Gatineau  QC,3,CAD 139.51, 81.01 CAD ,Online
+TXN-2023-000846,CUST-0167,21/07/2023,Men's,male,45,Victoria bc,1,20.43,11.84,Online
+TXN-2024-000138,CUST-0152,11-Jan-2024,Hand Soap & Sanitizer,MALE,70,"Fredericton, New Brunswick",2,11.48,"4,64",Store
+TXN-2023-000356,CUST-0035,2023-02-08,Hand Soap & Sanitizer,,53,ON - Markham,1,2.22,"0,45",Online
+TXN-2023-000366,CUST-0089,"Mar 27, 2023",Men's,male,32,Richmond-bc,1,19.81, 6.96 CAD ,Store
+TXN-2023-000943,CUST-0140,2023.09.27,Hand Soap & Sanitizer,MALE,46,Windsor / ONTARIO,1, 10.91 CAD ,3.17,Store
+TXN-2023-000750,CUST-0171,2023.09.23,Body Care,Male,71,Sydney / NS,3,28.19,CAD 10.40,Online
+TXN-2023-000949,CUST-0083,9/16/2023,Hand Soap & Sanitizer,Male,66,Burnaby / BRITISH COLUMBIA,1,$13.44, 6.02 CAD ,Online
+TXN-2023-000830,CUST-0024,7/12/2023,Men's,N/A,17, Gatineau-QC ,1,15.3,7.34,Store
+TXN-2023-000657,CUST-0005,2023-05-23,Wallflower & Air Freshener,Female,40,Mississauga  ON,4, 30.68 CAD ,12.43,Store
+TXN-2023-000200,CUST-0260,21-Sep-2023,Body Care,male,70,Sydney-Nova Scoti,2,16.23,3.68,Store
+TXN-2024-000214,CUST-0001,26/12/2024,Wallflower & Air Freshener,FEMALE,56,Hamilton on,1, 8.98 CAD ,CAD 3.89,Online
+TXN-2023-000409,CUST-0115,09/04/2023,Wallflower & Air Freshener,MALE,50,Ontario - Vaughan,2,44.47,19.21,Online
+TXN-2024-000333,CUST-0317,09/07/2024,Body Care,F,20,Brandon (MB),1,$10.50,5.61,Online
+TXN-2023-000209,CUST-0172,08/04/2023,Body Care,F,43,London  Ontario,1,$15.26,6.54,Store
+TXN-2024-000614,CUST-0116,"Aug 14, 2024",Hand Soap & Sanitizer,MALE,27,"Laval, Quebec",3,58.12,20.5,Store
+TXN-2023-000079,CUST-0241,14-Jan-2023,Body Care,F,N/A,Laval qc,1,22.63,6.97,Store
+TXN-2023-000030,CUST-0099,2023.09.13,Candles,FEMALE,37,"Montreal,qc",4,CAD 51.30,26.87,Store
+TXN-2023-000536,CUST-0284,2023.10.06,Body Care,FEMALE,22,Fredericton-NewBrunswick,1,$21.87,9.59,Online
+Txn-2023-000696,CUST-0305,05/11/2023,Wallflower & Air Freshener,U,N/A," Kitchener,Ontari ",3,$109.58,56.94,Store
+TXN-2024-000558,CUST-0108,9/9/2024,Body Care,MALE,50,Kelowna British Columbi,1,14.9,7.77,Store
+TXN-2024-000837,CUST-0092,25-Mar-2024,Body Care,female,63,Toronto  ONTARIO,1,"11,52",3.16,Store
+TXN-2024-000597,CUST-0268,05/13/2024,Wallflower & Air Freshener,F,31,"Halifax,Nova Scotia",2,$52.23,17.18,Online
+TXN-2023-000166,CUST-0050,31/07/2023,Wallflower & Air Freshener,M,74,Ontario - Ottawa,1,18.12,9.09,Online
+TXN-2023-000919,CUST-0244,18/08/2023,Body Care,M,70, Edmonton  Alberta ,1,16.64,8.65,Online
+TXN-2023-000496,CUST-0062,2023.02.12,Men's,female,14,"Brampton, ONTARIO",2,$57.34,CAD 13.14,Online
+TXN-2024-000825,CUST-0250,5/14/2024,Hand Soap & Sanitizer,MALE,65,Ottawa / Ontario,1,$17.74,4.43,Store
+TXN-2023-000066,CUST-0003,"Apr 02, 2023",Candles,N/A,35,Edmonton  ab,3,104.84,"53,02",Store
+TXN-2024-000142,CUST-0068,2024.06.07,Candles,male,69,Moncton-New Brunswic,4,"133,74",51.53,Online
+TXN-2024-000926,CUST-0079,2024.08.20,Hand Soap & Sanitizer,F,62,Victoria British Columbi,1,7.62, 2.90 CAD ,Online
+TXN-2023-000828,CUST-0208,24/03/2023,Body Care,U,70,Laval-Quebec,1,23.7, 9.37 CAD ,Store
+TXN-2024-000656,CUST-0026,25/06/2024,Candles,F,17,Toronto (Ontario),1,54.64,23.3,Store
+TXN-2023-000332,CUST-0117,2023.10.13,Wallflower & Air Freshener,FEMALE,51,Markham-ONTARIO,1,$17.28,7.53,Online
+TXN-2024-000665,CUST-0086,2024.12.23,Body Care,,59,Laval / QUEBEC,1,$36.65,17.63,Online
+TXN-2024-000250,CUST-0161,12/12/2024,Men's,FEMALE,30,London  Ontario,1,19.29,8.33,Store
+TXN-2024-000908,CUST-0056,05-Jun-2024,Candles,,38,Toronto ONTARIO,3,186.48,70.08,Store
+TXN-2023-000709,CUST-0185,2023-01-20,Hand Soap & Sanitizer,female,15,"Kelowna,British Columbi",1,$11.78,3.28,Store
+TXN-2024-000306,CUST-0288,"Dec 23, 2024",Body Care,Male,24,Richmond / BRITISH COLUMBIA,1,$32.99,10.12,Online
+TXN-2024-000735,CUST-0172,08/02/2024,Candles,Male,60,"Toronto, on",1,37.0,CAD 14.10,Store
+TXN-2024-000091,Cust-0265,2024-07-07,Body Care,Female,71,"Longueuil,Quebec",2,40.4,CAD 14.81,Store
+TXN-2023-000050,CUST-0013,13-Jul-2023,Wallflower & Air Freshener,male,67,"Quebec City,Quebe",1,$17.18,7.62,Store
+TXN-2023-000897,CUST-0298,15/11/2023,Candles,female,40,Laval-QUEBEC,4,$50.59,21.25,Store
+TXN-2023-000003,CUST-0309,2023.11.12,Men's,Female,74,"Quebec City,Quebec",1,10.55, 3.61 CAD ,Store
+TXN-2024-000545,CUST-0200,2024.09.10,Men's,female,31,"Fredericton, New Brunswick",3,94.09,34.67,Store
+TXN-2023-000351,CUST-0314,2023.09.17,Candles,U,24,Ontari - London,1,12.84,6.5,Store
+TXN-2024-000905,CUST-0176,09-Jan-2024,Men's,female,63, Victoria BC ,1,"16,75",5.84,Store
+TXN-2024-000537,CUST-0066,"Apr 18, 2024",Candles,male,??,Windsor / ONTARIO,2,70.75,31.1,Store
+TXN-2023-000345,CUST-0167,12/25/2023,Candles,MALE,37,Windsor Ontario,3, 92.73 CAD ,32.84,Online
+TXN-2024-000869,cust-0148, 2024-08-09  ,Candles,Male ,36, Lethbridge Alberta,2,31.71,12.68,Store
+TXN-2024-000482,CUST-0110,10-Aug-2024,Men's,Male,66,Mississauga / Ontario,2,77.24,22.91,Store
+TXN-2024-000576,CUST-0042 ,13/10/2024,Men's,Male,63,Quebec City Quebec,1,8.6,$5.06,Online
+TXN-2024-000034,Cust-0147,05-Feb-2024,Wallflower & Air Freshener,FEMALE,66,Laval / qc,1,$14.64,6.74,Online
+TXN-2024-000032,CUST-0008,02/05/2024,Men's,N/A,60,Vancouver  BRITISH COLUMBIA,1,CAD 9.65,$6.03,Store
+TXN-2023-000232,CUST-0063,2023-11-12,Candles,MALE,69, Markham  on ,1,$20.99,8.04,Store
+TXN-2023-000874,CUST-0134 ,3/13/2023,Candles,U,N/A,"Burnaby, British Columbia",1, 20.09 CAD ,$10.91,Store
+TXN-2023-000193,CUST-0089,06/12/2023,Men's,U,41,Ottawa-ONTARIO,1,10.63,$4.98,Store
+TXN-2023-000334,CUST-0079,03/24/2023,Wallflower & Air Freshener,female,17,Quebec City QC,1,$14.69,8.7,Online
+TXN-2024-000004,CUST-0302,2024-12-30,Wallflower & Air Freshener,Male,37,"Quebec City,Quebec",1,41.13,CAD 22.16,Online
+TXN-2024-000205,CUST-0247,2024.07.04,Body Care,M,18,Sydney Nova Scotia,2,21.2,8.44,Online
+TXN-2024-000515,CUST-0234,11/07/2024,Candles,MALE,57,Hamilton ON,2,,67.35,Online
+TXN-2023-000800,CUST-0316,10/20/2023,Candles,Prefer not to say,42,Hamilton ON,1,42.48, 21.10 CAD ,Online
+TXN-2024-000307,CUST-0170,"Jan 14, 2024",Candles,male,19,Hamilton / ON,2,63.93,26.48,Store
+TXN-2024-000110,CUST-0222,2024.04.13,Body Care,female,64,Windsor ON,1,$5.09,CAD 1.93,Online
+TXN-2023-000431,CUST-0110,01/09/2023,Hand Soap & Sanitizer,Prefer not to say,31,Mississauga-ONTARIO,2,25.83,$9.38,Store
+TXN-2023-000078,CUST-0168,"Jul 05, 2023",Wallflower & Air Freshener,Prefer not to say,17,"Saskatoon,Saskatchewa",1,15.51,7.72,Online
+TXN-2024-000085,CUST-0260,2024-10-02,Body Care,FEMALE,38,London  Ontari,2,$9.84,$2.72,Online
+TXN-2023-000287,CUST-0233,"May 01, 2023",Candles,MALE,65,Saint John / New Brunswic,2,85.47,$48.27,Online
+TXN-2024-000083,CUST-0193, 09-May-2024  ,Men's,N/A,45,Hamilton / ON,2,CAD 62.57,$28.56,Online
+TXN-2023-000419,cust-0291,"Jan 02, 2023",Men's,Male ,73, Montreal (qc),1,25.71,8.5,Store
+TXN-2023-000790,CUST-0218,"Apr 10, 2023",Men's,FEMALE,75,Markham  Ontario,1,8.94,N/A,Store
+TXN-2023-000895,CUST-0142,2023-10-14,Body Care,male,72, Toronto  Ontario ,1,26.59,"11,07",Online
+TXN-2023-000399,CUST-0276,2023-02-30,Men's,female,48,Ottawa (ON),2,28.4,CAD 14.12,Store
+TXN-2023-000324,CUST-0017,"Feb 15, 2023",Body Care,U,46,Red Deer  ALBERTA,-1,-18.12,-6.83,Store
+TXN-2023-000520,CUST-0082,"Aug 05, 2023",Body Care,FEMALE,19, Kelowna  British Columbi ,1,$21.57,$10.46,Store
+TXN-2023-000917,CUST-0021,11/04/2023,Men's,MALE,33,"Hamilton,ON",2,58.56,N/A,Store
+TXN-2024-000923,CUST-0244,"Jan 05, 2024",Hand Soap & Sanitizer,female,75,Lethbridge  ab,1,2.3,CAD 0.76,Online
+TXN-2024-000006,CUST-0177,2024-12-26,Hand Soap & Sanitizer,FEMALE,75,Winnipeg Manitoba,1,5.35,$2.67,Online
+TXN-2024-000732,CUST-0166, 2024-06-16  ,Wallflower & Air Freshener,Female,14,Kitchener / ONTARIO,1,$7.70,$2.77,Online
+TXN-2024-000466,CUST-0293,2024-12-24,Men's,MALE,Thirty,Toronto / on,2,93.45,40.78,Store
+TXN-2024-000098,CUST-0065,2024-04-11,Men's,F,58,Sherbrooke (Quebec),2,25.04,6.81,Online
+TXN-2023-000267,CUST-0176,11/30/2023,Men's,male,41,Markham  Ontario,2,CAD 53.69,"28,18",Online
+TXN-2024-000358,CUST-0208,09/12/2024,Candles,MALE,46,"Markham, ONTARIO",2,30.08,10.06,Store
+TXN-2024-000869,CUST-0148, 2024-08-09  ,Candles,Male,36,Lethbridge Alberta,2,31.71,12.68,Store
+TXN-2023-000799,CUST-0249 ,30/07/2023,Hand Soap & Sanitizer,F,29,Winnipeg (Manitob),1, 4.98 CAD ,2.35,Store
+TXN-2024-000381,CUST-0033,20/02/2024,Hand Soap & Sanitizer,MALE,21,Sherbrooke / Quebe,2,22.87,8.41,Online
+TXN-2024-000632,CUST-0121,"Nov 06, 2024",Hand Soap & Sanitizer,N/A,67,Ottawa-on,1,26.24,14.03,Online
+TXN-2023-000382,CUST-0166,04/15/2023,Hand Soap & Sanitizer,Female,34, Gatineau  Quebec ,1, 5.53 CAD ,CAD 2.77,Online
+TXN-2024-000491,CUST-0098,2024-02-30,Men's,N/A,26,Longueuil  Quebec,1,17.14,7.11,Online
+TXN-2023-000119,CUST-0008,2023-01-26,Men's,Female,23,Laval Quebe,2,25.72,CAD 8.43,Online
+TXN-2023-000901,CUST-0297,24/04/2023,Men's,M,28,St. John's (nl),4,134.85,$52.43,Online
+TXN-2024-000251,CUST-0255,2024-11-02,Hand Soap & Sanitizer,FEMALE,37,Gatineau  Qu3b3c,1,4.48,1.65,Store
+TXN-2024-000524,CUST-0247,31-Jan-2024,Candles,FEMALE,62,"Kitchener, on",1,$17.57,8.64,Online
+TXN-2023-000010,CUST-0088 ,21/10/2023,Men's,MALE,15,Ottawa (ONTARIO),2,58.21, 24.89 CAD ,Store
+TXN-2024-000197,CUST-0305, 10/06/2024  ,Candles,MALE,58, Ontario - Kitchener ,2,$95.03,$32.80,Store
+Txn-2023-000604,CUST-0296,28-Apr-2023,Hand Soap & Sanitizer,FEMALE,37,Burnaby-British C0lumbia,1,20.62, 7.39 CAD ,Online
+TXN-2023-000082,CUST-0311,05/08/2023,Men's,female,62,"Surrey, BC",3,74.48,50.64,Store
+TXN-2023-000784,CUST-0207,09/22/2023,Men's,,56,"Windsor, Ontario",2,$63.83,$32.00,Store
+TXN-2024-000588,CUST-0118,01/31/2024,Body Care,M,56,Windsor  ONTARIO,-3,-26.82,$-27.68,Online
+TXN-2024-000798,CUST-0297,2024.09.01,Wallflower & Air Freshener,M,31,Vancouver (British Columbia),1,11.56, 4.40 CAD ,Store
+TXN-2024-000240,CUST-0146,10/27/2024,Men's,Female,19,London (Ontario),4,98.59,$26.37,Store
+TXN-2023-000291,CUST-0068,"Dec 09, 2023",Wallflower & Air Freshener,M,13,Calgary  Alberta,5,181.01,94.41,Online
+TXN-2024-000212,CUST-0123,31-Aug-2024,Body Care,MALE,52,Halifax NS,1,CAD 15.39,$6.92,Online
+TXN-2023-000718,CUST-0269,"Feb 12, 2023",Hand Soap & Sanitizer,Female,27,Mississauga-Ontario,2,$23.09,8.62,Store
+TXN-2023-000360,CUST-0033,2023.03.06,Hand Soap & Sanitizer,Female,26,Ontario - Brampton,1,11.7,6.23,Store
+TXN-2024-000450,CUST-0229,01/31/2024,Hand Soap & Sanitizer,Female,Thirty,Fredericton N3w Brunswick,1,7.97,2.2,Store
+TXN-2023-000228,CUST-0188,"Aug 12, 2023",Candles,F,31,Vancouver-BritishColumbia,1,CAD 8.63,2.88,Online
+TXN-2023-000315,CUST-0292,"Oct 16, 2023",Wallflower & Air Freshener,male,66,Quebec City  Quebec,2,10.86,$4.81,Store
+TXN-2023-000947,CUST-0187,15/07/2023,Candles,Female,18,Victoria (bc),1,"49,42", 16.34 CAD ,Online
+TXN-2023-000797,CUST-0086,30-May-2023,Hand Soap & Sanitizer,female,16,Hamilton (Ontario),1,4.22,2.39,Store
+TXN-2024-000502,CUST-0010,20-Jun-2024,Candles,N/A,20, on - Vaughan ,1,18.99,$7.99,Store
+TXN-2024-000465,CUST-0244,"Apr 08, 2024",Men's,male,32,"Lethbridge,AB",-2,"-11,63",$-20.48,Store
+TXN-2023-000363,CUST-0089,2023.03.26,Men's,M,20,Gatineau-Quebec,4,$26.37,N/A,Online
+TXN-2023-000469,CUST-0235 ,16-Jun-2023,Men's,MALE,36,"Laval,QC",1,41.88,17.52,Store
+TXN-2023-000936,CUST-0304,26-Feb-2023,Hand Soap & Sanitizer,,18 yrs,QC - Sherbrooke,1,$18.55,8.19,Store
+TXN-2023-000429,CUST-0048,2023-03-30,Candles,M,38," Markham, ONTARIO ",3,$108.94,52.32,Online
+TXN-2024-000008,CUST-0117,2024-01-20,Body Care,Male,61,Ottawa Ontari,1,33.97,$15.44,Online
+TXN-2024-000156,CUST-0302,2024-08-24,Candles,N/A,71,"Corner Brook, Newfoundland and Labrador",1,CAD 24.92,$13.83,Online
+TXN-2024-000542,CUST-0055,"Mar 01, 2024",Men's,Male,13," Toronto, ON ",1,35.24,16.55,Store
+TXN-2023-000441,CUST-0252,2023-12-11,Candles,F,59,Brandon / mb,3,CAD 79.10,34.89,Store
+TXN-2024-000483,CUST-0263,10-Feb-2024,Wallflower & Air Freshener,F,24,Saint John-NEW BRUNSWICK,4,81.92,33.16,Store
+TXN-2024-000423,CUST-0238,2024-01-23,Hand Soap & Sanitizer,M,23,Gatineau (qc),2,$41.51,19.32,Online
+TXN-2023-000779,CUST-0294,2023-09-09,Body Care,FEMALE,15,Quebec City Quebec,4,CAD 96.38,45.53,Online
+TXN-2024-000950,CUST-0099,09/02/2024,Candles,female,15,Ottawa  ONTARIO,1,CAD 35.24,$13.76,Store
+TXN-2024-000335,CUST-0228,09/10/2024,Hand Soap & Sanitizer,M,36,Montreal qc,1,$7.46,4.12,Online
+TXN-2024-000577,CUST-0010 ,2024.11.10,Body Care,FEMALE,13,Sherbrooke / Qu3b3,1,21.84, 8.53 CAD ,Store
+TXN-2024-000935,CUST-0180,30-Jan-2024,Wallflower & Air Freshener,N/A,53,London / on,1,$16.25,CAD 5.70,Store
+TXN-2023-000568,CUST-0109,21-Jan-2023,Hand Soap & Sanitizer,Male,Thirty,Fredericton / nb,-2, -27.43 CAD ,-5.73,Online
+TXN-2023-000595,CUST-0104,23/04/2023,Body Care,M,45,Ottawa  on,1,15.63,$7.12,Online
+TXN-2023-000531,CUST-0059,06-Aug-2023,Wallflower & Air Freshener,Male,36,ON - London,3,33.51,CAD 20.38,Store
+TXN-2024-000582,CUST-0033,01/31/2024,Candles,Female,32,Gatineau / QC,1,$31.06,15.59,Online
+TXN-2024-000708,CUST-0139,"Jul 06, 2024",Men's,M,18,"Brampton,ON",2,$44.49,$16.81,Store
+TXN-2023-000449,CUST-0122, 05/07/2023  ,Body Care,Female,41,London Ontario,6,$46.77,25.65,Online
+TXN-2024-000454,CUST-0038,14/04/2024,Body Care,FEMALE,Thirty,Regina Saskatchewan,2,35.16,CAD 16.19,Online
+TXN-2023-000229,CUST-0191,2023-10-15,Hand Soap & Sanitizer,N/A,18 yrs,ALBERTA - Lethbridge,1,5.88,"3,25",Online
+TXN-2023-000353,CUST-0201,29-Dec-2023,Hand Soap & Sanitizer,Female,57,"Markham, Ontario",2, 25.37 CAD ,12.27,Online
+TXN-2024-000729,CUST-0199,10/06/2024,Men's,Prefer not to say,??,Toronto (ONTARIO),1,35.64,18.64,Store
+TXN-2024-000213,CUST-0275,08-Apr-2024,Men's,Female,14,Lethbridge-Alberta,1,28.77,CAD 9.30,Store
+TXN-2024-000080,CUST-0127 ,2024-08-27,Body Care,Male,61,Toronto-on,3,"39,91",11.21,Store
+TXN-2024-000149,CUST-0190,2024.12.26,Wallflower & Air Freshener,Male,25,Richmond BRITISH COLUMBIA,1, 37.61 CAD ,$20.03,Online
+TXN-2024-000303,CUST-0286,1/7/2024,Body Care,MALE,15,Laval  Quebec,1,30.71,9.55,Store
+TXN-2024-000629,CUST-0135,01/05/2024,Men's,MALE,59,BritishColumbia - Surrey,2,29.99,"11,23",Store
+TXN-2023-000778,CUST-0221,2023.07.31,Men's,female,32,Edmonton / Alberta,2,$83.98,27.75,Online
+TXN-2023-000507,CUST-0131,2023.05.21,Wallflower & Air Freshener,F,34,Toronto Ontario,1,15.7,CAD 8.52,Store
+TXN-2024-000343,CUST-0221,05/12/2024,Hand Soap & Sanitizer,Prefer not to say,61,Markham / Ontario,1,$2.52,"1,08",Store
+TXN-2023-000486,CUST-0320,2023.02.12,Men's,F,30,QC - Laval,4,156.93,59.74,Online
+TXN-2024-000712,CUST-0171,"Apr 30, 2024",Hand Soap & Sanitizer,Male,61, QC - Longueuil ,1,6.11,3.02,Online
+TXN-2024-000134,CUST-0299,16/10/2024,Wallflower & Air Freshener,FEMALE,65, Edmonton (Alberta) ,1,17.63,7.94,Store
+TXN-2023-000704,CUST-0076,2023-08-26,Men's,male,30,Brampton Ontario,1,34.11,11.55,Online
+TXN-2023-000312,CUST-0239,19-Sep-2023,Wallflower & Air Freshener,MALE,32, British Columbi - Victoria ,1,6.83,2.24,Store
+TXN-2024-000723,CUST-0069,6/1/2024,Wallflower & Air Freshener,male,36,"Calgary,ab",5,57.62,$22.92,Online
+TXN-2023-000630,CUST-0256,02/09/2023,Candles,FEMALE,68,Alberta - Red Deer,1,25.8,12.2,Online
+TXN-2023-000001,CUST-0141,13/04/2023,Body Care,Female,42,Calgary Alberta,1,27.36,17.35,Store
+TXN-2023-000317,CUST-0031,2023-05-27,Men's,,twenty,Surrey-BRITISH COLUMBIA,1,$29.37,$9.50,Store
+TXN-2023-000707,CUST-0299,09/06/2023,Wallflower & Air Freshener,N/A,67,Toronto (ON),1,27.07,13.84,Store
+TXN-2024-000548,CUST-0230,11-May-2024,Hand Soap & Sanitizer,M,,Edmonton ab,1,5.51,2.7,Store
+TXN-2024-000873,CUST-0249,"Jan 13, 2024",Hand Soap & Sanitizer,male,14,Kelowna-BritishC0lumbia,1,12.99,4.99,Online
+TXN-2024-000533,CUST-0210,05/07/2024,Candles,Male,22, Gatineau qc ,-2,-59.71,-18.19,Store
+Txn-2024-000478,CUST-0128 ,"Oct 15, 2024",Body Care,F,44,Surrey / British Columbia,4,63.6,32.21,Store
+TXN-2023-000405,CUST-0140,11/13/2023,Wallflower & Air Freshener,M,35,Laval  QUEBEC,2,"49,06",$19.77,Store
+TXN-2023-000173,CUST-0175,12/04/2023,Wallflower & Air Freshener,male,61,Nova Scotia - Sydney,4,22.26,9.26,Store
+TXN-2023-000126,CUST-0198,"Oct 08, 2023",Wallflower & Air Freshener,M,72,qc - Sherbrooke,1,"26,29",9.21,Store
+TXN-2023-000395,CUST-0198,30/10/2023,Wallflower & Air Freshener,U,45,Brampton Ontario,2,"32,35",13.53,Store
+TXN-2023-000421,CUST-0070,13/06/2023,Candles,F,44,Montreal  qc,1,$14.83,4.97,Store
+TXN-2024-000553,CUST-0114,26-Mar-2024,Hand Soap & Sanitizer,male,32,Ontario - Ottawa,1,CAD 5.78,2.51,Store
+TXN-2024-000904,CUST-0246, 05/14/2024  ,Body Care,male,44,Edmonton  ab,2,CAD 43.59,10.41,Online
+TXN-2024-000091,Cust-0265,2024-07-07,Body Care,Female,71,"Longueuil,Quebec",2,40.4,CAD 14.81,Store
+TXN-2024-000940,CUST-0173,2024-02-30,Candles,female,55,Ottawa (on),1,$11.14,$4.38,Online
+TXN-2023-000182,CUST-0059,2023-06-02,Hand Soap & Sanitizer,female,51,Lethbridge  ab,1,$17.99,CAD 9.77,Online
+TXN-2023-000275,CUST-0245,05/30/2023,Wallflower & Air Freshener,Prefer not to say,27,"Richmond, British Columbia",2,17.85,$7.67,Store
+Txn-2024-000896,CUST-0133, 10-Dec-2024  ,Wallflower & Air Freshener,M,71,"Windsor, Ontario",2,40.54,16.67,Online
+TXN-2024-000070,CUST-0226,17-Jan-2024,Hand Soap & Sanitizer,female,61,Brampton (on),1,"16,35",5.12,Store
+TXN-2023-000292,CUST-0012 ,04/22/2023,Hand Soap & Sanitizer,F,14,Kelowna / British C0lumbia,2,CAD 12.03,4.55,Online
+TXN-2024-000132,CUST-0151,07/06/2024,Body Care,FEMALE,20,Red Deer / ab,2,$54.77,23.38,Online
+TXN-2023-000301,CUST-0112,24/02/2023,Men's,female,33, nl - St. John's ,1,11.56,5.98,Store
+TXN-2024-000425,CUST-0263,17-Dec-2024,Wallflower & Air Freshener,Prefer not to say,19,Red Deer-Alberta,1,23.52,9.75,Store
+TXN-2024-000327,CUST-0039,2024.06.17,Body Care,F,45,on - Hamilton,1,6.5,CAD 1.93,Online
+TXN-2024-000145,CUST-0189,2024.10.09,Wallflower & Air Freshener,FEMALE,15,Albert - Calgary,2,$43.53,22.94,Online
+TXN-2023-000424,CUST-0111,02/03/2023,Body Care,M,17,Windsor / Ontari0,6,151.43,65.27,Online
+TXN-2023-000581,CUST-0290,04-Jun-2023,Men's,MALE,N/A, St. John's / NL ,-1,-17.34,-9.01,Store
+TXN-2024-000136,CUST-0154 ,25-Sep-2024,Men's,female,36,Laval (QUEBEC),1,12.38,3.49,Online
+TXN-2024-000451,CUST-0056,2024-03-20,Hand Soap & Sanitizer,U,48," London,ONTARIO ",1,$7.62,CAD 3.40,Store
+TXN-2024-000165,CUST-0243,2024-02-30,Candles,F,49,Burnaby British Columbi,1,62.15,28.09,Store
+TXN-2024-000029,CUST-0028,2024-01-08,Wallflower & Air Freshener,FEMALE,40,Ontario - Kitchener,1,15.14, 3.62 CAD ,Store
+TXN-2023-000774,CUST-0016,"Aug 02, 2023",Wallflower & Air Freshener,F,70,Saint John  New Brunswick,2,26.81,9.92,Store
+TXN-2023-000194,CUST-0145,"Jul 01, 2023",Hand Soap & Sanitizer,Prefer not to say,42,"Burnaby, British Columbia",-5,-52.03,-27.93,Online
+TXN-2023-000389,CUST-0046,2023-05-19,Wallflower & Air Freshener,Prefer not to say,61,Brampton (Ontario),5,$139.93,,Store
+TXN-2023-000853,CUST-0088,2023-08-01,Men's,FEMALE,??, Sherbrooke / Quebe ,1,$26.11,12.1,Store
+TXN-2024-000170,CUST-0319,2024.12.28,Men's,female,32,Richmond-BC,3,68.76,CAD 29.16,Store
+TXN-2023-000706,CUST-0268,2023.10.03,Men's,U,73, St. John's-NewfoundlandandLabrador ,2,41.94,19.6,Online
+TXN-2023-000141,CUST-0187,2023-06-14,Men's,female,51,"Vancouver,British Columbia",1,34.43,"15,40",Store
+TXN-2023-000174,CUST-0044,27/07/2023,Men's,Male,14," Victoria, British Columbi ",2, 52.68 CAD ,16.51,Store
+TXN-2024-000007,CUST-0283,29-Apr-2024,Body Care,female,23,Kitchener / Ontario,1,25.37,"9,38",Online
+TXN-2023-000746,CUST-0045,14-Aug-2023,Men's,male,32,ONTARIO - Windsor,2,39.22, 17.18 CAD ,Online
+TXN-2024-000479,CUST-0238,19-Apr-2024,Hand Soap & Sanitizer,F,27,"Burnaby, British Columbia",1,15.8, 5.60 CAD ,Online
+TXN-2023-000074,CUST-0181 ,"Jun 15, 2023",Body Care,FEMALE,62,Gatineau / Quebec,2,$58.68,CAD 22.03,Online
+TXN-2023-000911,CUST-0297,09/26/2023,Hand Soap & Sanitizer,N/A,50,Mississauga / Ontari,1,7.93,2.58,Online
+TXN-2023-000814,CUST-0233,"May 15, 2023",Body Care,Prefer not to say,24,Sydney-Nova Scotia,2,42.72,14.48,Online
+TXN-2023-000239,CUST-0079,07/07/2023,Men's,Female,68,Calgary / Alb3rta,1,23.49,11.52,Online
+TXN-2023-000146,CUST-0242,2023.03.24,Candles,female,20,Montreal / Quebec,1,9.62,4.04,Store
+TXN-2023-000793,CUST-0189,2023.09.11,Wallflower & Air Freshener,FEMALE,33,Windsor Ontario,4,,$11.46,Store
+TXN-2023-000235,CUST-0014, 2023.06.13  ,Wallflower & Air Freshener,male,35,Surrey-BRITISH COLUMBIA,2,24.6,10.68,Online
+TXN-2023-000221,CUST-0025,06/20/2023,Hand Soap & Sanitizer,F,51,Ontari - Hamilton,1,20.33,CAD 7.24,Online
+TXN-2023-000924,CUST-0129," Feb 15, 2023  ",Body Care,Male,14, Halifax-Nova Scotia ,-1,-14.33,-6.12,Online
+Txn-2023-000501,CUST-0274,22-Jul-2023,Body Care,female,65,QC - Montreal,2,CAD 54.43,23.55,Store
+TXN-2023-000133,CUST-0290,28/10/2023,Wallflower & Air Freshener,Male,59,"Victoria,BC",5,96.27,45.59,Store
+TXN-2024-000217,cust-0054,14/03/2024,Candles,F ,66, Ontario - London,6,173.7,59.09,Online
+TXN-2024-000775,CUST-0145,2024.12.25,Candles,Female,59,Sydney NovaScotia,6,$364.30,CAD 131.35,Online
+TXN-2023-000186,CUST-0121,12/03/2023,Candles,male,66,London-on,2,CAD 64.00,CAD 35.42,Store
+TXN-2024-000042,CUST-0271,10-Aug-2024,Men's,Prefer not to say,54,Hamilton Ontario,4,104.95,51.39,Store
+TXN-2023-000697,CUST-0173,"Nov 16, 2023",Candles,F,51,"Edmonton,Alberta",1,57.64,CAD 17.13,Store
+TXN-2024-000109,CUST-0207,2024.08.24,Hand Soap & Sanitizer,FEMALE,16,Lethbridge ALBERTA,3,7.01,3.5,Online
+TXN-2023-000589,CUST-0303, 01-Jun-2023  ,Candles,FEMALE,51,Richmond / BC,1,67.29, 39.16 CAD ,Store
+TXN-2024-000057,CUST-0001,09/07/2024,Wallflower & Air Freshener,FEMALE,,Quebec - Sherbrooke,1,22.01,"11,38",Store
+TXN-2023-000406,CUST-0256,9/26/2023,Body Care,female,40,Red Deer (ab),2,34.05,CAD 14.61,Store
+TXN-2024-000443,CUST-0091,2024-01-16,Hand Soap & Sanitizer,F,42,Mississauga-on,1,18.21,6.06,Online
+TXN-2024-000758,CUST-0017,5/19/2024,Hand Soap & Sanitizer,MALE,17,Kelowna  BC,2, 34.85 CAD ,14.15,Online
+TXN-2023-000148,cust-0156,2023-02-22,Body Care,F ,27, Calgary-ab,2,CAD 30.26,$11.17,Online
+TXN-2023-000025,CUST-0302,2023.02.11,Body Care,Male,52,Saint John NB,6,$29.72,17.46,Store
+TXN-2024-000468,CUST-0035,"Nov 22, 2024",Hand Soap & Sanitizer,FEMALE,71, Alberta - Red Deer ,3,CAD 68.22,23.46,Store
+TXN-2023-000540,CUST-0068,2023.12.25,Hand Soap & Sanitizer,female,45,Red Deer Alberta,1,$11.46,4.78,Store
+TXN-2023-000532,CUST-0281,2023-02-30,Hand Soap & Sanitizer,F,13, Laval-QC ,2,"12,03",CAD 4.83,Online
+Txn-2023-000619,CUST-0212,2023.02.24,Hand Soap & Sanitizer,,,Brampton (Ontari),2,"16,12",,Online
+TXN-2024-000695,CUST-0277,05/23/2024,Hand Soap & Sanitizer,Female,75,"St. John's, nl",1,7.11,3.69,Store
+TXN-2023-000927,CUST-0104,1/27/2023,Wallflower & Air Freshener,MALE,69,Lethbridge (ALBERTA),1,CAD 25.89,12.56,Online
+TXN-2023-000339,CUST-0138,06/15/2023,Candles,FEMALE,39,Edmonton ab,1,$45.30,22.61,Online
+TXN-2023-000052,CUST-0103,01/07/2023,Candles,female,49,Richmond / British Columbi,2,79.52,41.02,Online
+TXN-2024-000508,CUST-0060,"Jun 08, 2024",Body Care,FEMALE,21,Toronto (ON),2,$30.44,CAD 15.13,Online
+TXN-2024-000517,CUST-0088,02/05/2024,Candles,FEMALE,67,Calgary (Alberta),1,24.1,$7.62,Online
+TXN-2023-000921,CUST-0034,2023-02-30,Candles,N/A,71,Calgary / Alberta,3,"128,30",28.46,Online
+TXN-2023-000782,CUST-0232,"Nov 27, 2023",Candles,MALE,17,St. John's / nl,1,28.18,14.83,Online
+TXN-2024-000265,CUST-0314,20-Nov-2024,Men's,M,43,Gatineau-Quebec,2,33.8,13.81,Online
+TXN-2023-000818,CUST-0053,2023-04-20,Hand Soap & Sanitizer,M,30, Markham (Ontario) ,1,9.87,3.36,Store
+TXN-2023-000711,CUST-0257,2023.04.06,Candles,F,28,Surrey / BC,2,72.12,35.51,Online
+TXN-2024-000683,CUST-0296,10-Mar-2024,Body Care,FEMALE,40,"Sherbrooke,Quebec",4,$91.84,56.39,Online
+TXN-2023-000833,CUST-0062,2023-02-30,Hand Soap & Sanitizer,male,30,Regina / Saskatchewa,1,10.87,5.76,Store
+TXN-2023-000519,CUST-0198,"Jul 21, 2023",Hand Soap & Sanitizer,Male,45,Markham-ON,5,$63.49,36.54,Online
+TXN-2023-000448,CUST-0163,26-Jul-2023,Men's,M,64,Quebec City-QUEBEC,1,CAD 18.67,$5.61,Store
+TXN-2024-000019,CUST-0312,28/01/2024,Men's,male,41,Kelowna-British Columbi,1,48.14,$18.57,Store
+TXN-2024-000716,CUST-0294,"Nov 04, 2024",Candles,male,57,Ontario - Kitchener,2,CAD 26.44,$9.07,Store
+TXN-2023-000484,CUST-0308,08/01/2023,Candles,male,36,Sherbrooke (Quebec),-2,CAD -62.40,-24.9,Store
+TXN-2024-000569,CUST-0100 ,03/08/2024,Hand Soap & Sanitizer,,32,Windsor  Ontari,2,8.13,2.21,Store
+TXN-2023-000434,CUST-0128,"Jul 16, 2023",Men's,female,35,Kelowna  BRITISH COLUMBIA,1,$17.80,$7.75,Store
+TXN-2023-000368,CUST-0288,"Apr 18, 2023",Wallflower & Air Freshener,MALE,24,Brampton  ONTARIO,1,30.96,$15.23,Online
+TXN-2023-000084,CUST-0308,2023.12.27,Hand Soap & Sanitizer,F,18,"Ottawa,Ontario",2,47.18,"18,63",Store
+TXN-2024-000062,CUST-0262,07-Aug-2024,Candles,Male,20,Markham Ontario,1,$13.52,3.61,Online
+TXN-2023-000639,CUST-0216,2023-10-29,Hand Soap & Sanitizer,F,53,nb - Fredericton,1,20.31,4.57,Online
+TXN-2023-000273,CUST-0272, 30-Sep-2023  ,Body Care,N/A,13,Brampton ON,2,CAD 48.04,22.31,Store
+TXN-2024-000286,CUST-0152,2024.09.09,Body Care,Female,24,Kelowna-bc,1,$26.20,$11.45,Online
+TXN-2023-000361,CUST-0059 ,29-Jun-2023,Wallflower & Air Freshener,FEMALE,54,BritishColumbia - Surrey,3, 50.85 CAD ,"19,70",Online
+TXN-2024-000355,CUST-0106,01/02/2024,Wallflower & Air Freshener,MALE,60, London  ON ,3,59.85,27.33,Online
+TXN-2023-000457,CUST-0277,26-Jan-2023,Men's,female,40,Kelowna / British Columbia,1,11.29,4.56,Online
+TXN-2024-000279,CUST-0259,12/28/2024,Candles,Male,36,Regina Saskatchewa,1,$41.12,14.27,Online
+TXN-2023-000013,CUST-0074,12/06/2023,Wallflower & Air Freshener,Female,67,Richmond (British Columbia),1,—,8.47,Online
+TXN-2024-000183,CUST-0046,2024-04-15,Hand Soap & Sanitizer,Male,49,"Sherbrooke,QUEBEC",1,2.84,0.67,Online
+TXN-2023-000369,CUST-0043,24/03/2023,Candles,female,64, Saint John (NB) ,1,15.82,CAD 6.60,Store
+TXN-2023-000882,CUST-0283 ,04/22/2023,Candles,F,35,Toronto / ONTARIO,2,$104.18,18.44,Store
+TXN-2024-000616,CUST-0263,2024.05.13,Body Care,female,63,Laval  Quebec,2,26.36,7.53,Online
+TXN-2023-000224,CUST-0151,2023-09-13,Men's,F,60,Saskatoon (Saskatchewan),2,25.66,CAD 15.86,Online
+TXN-2023-000573,CUST-0079,01/23/2023,Men's,MALE,45,"Sherbrooke, qc",1,13.54,"8,24",Online
+TXN-2023-000595,CUST-0104,23/04/2023,Body Care,M,45,Ottawa  on,1,15.63,$7.12,Online
+TXN-2023-000654,CUST-0138,13/05/2023,Men's,M,59,Sydney-ns,2,65.03,22.02,Online
+TXN-2023-000546,CUST-0214 ,2023.03.05,Wallflower & Air Freshener,M,56,Richmond (BC),1,21.98,CAD 7.83,Online
+TXN-2024-000583,CUST-0199,"Oct 31, 2024",Hand Soap & Sanitizer,F,23,BC - Victoria,1,,7.2,Online
+TXN-2024-000634,CUST-0129,"Jan 20, 2024",Hand Soap & Sanitizer,F,68, Markham-Ontario ,2,40.04,20.8,Store
+TXN-2024-000177,CUST-0270,2024-01-02,Wallflower & Air Freshener,Female,44," Windsor, ONTARIO ",1,25.12,10.33,Online
+TXN-2023-000666,CUST-0298,20-Jun-2023,Body Care,Male,21,Toronto Ontario,1,$25.17,8.78,Online
+TXN-2023-000674,CUST-0165,16-Mar-2023,Candles,FEMALE,20,Windsor  on,4,$165.62,CAD 75.49,Store
+TXN-2024-000586,CUST-0310,2024.08.28,Wallflower & Air Freshener,Male,52,Saint John-NEW BRUNSWICK,1,"13,45","4,56",Store
+TXN-2023-000874,CUST-0134 ,3/13/2023,Candles,U,N/A,"Burnaby, British Columbia",1, 20.09 CAD ,$10.91,Store
+TXN-2024-000394,CUST-0266,14-Feb-2024,Candles,MALE,44,"Hamilton, Ontario",1,30.88,$12.14,Store
+TXN-2023-000164,Cust-0049,"Mar 25, 2023",Wallflower & Air Freshener,male,36, Gatineau (Quebec) ,1,$19.14,$6.07,Online
+TXN-2024-000249,CUST-0149 ,2024.06.03,Body Care,FEMALE,36,Calgary-ab,1,14.3,8.72,Online
+TXN-2023-000635,Cust-0131,04-Dec-2023,Candles,M,20,BRITISH COLUMBIA - Vancouver,1,CAD 61.29,16.18,Online
+TXN-2023-000886,CUST-0219," Feb 23, 2023  ",Candles,male,17, Richmond (BC) ,1,CAD 21.21,6.87,Online
+TXN-2024-000670,CUST-0249,2024.02.20,Body Care,male,,Laval  Quebec,1,13.04,3.57,Online
+TXN-2024-000376,CUST-0149,2024.03.29,Hand Soap & Sanitizer,M,36,"Brandon,mb",2,11.04,3.78,Online
+TXN-2024-000413,CUST-0125, 01/20/2024  ,Men's,MALE,42,Kelowna / British Columbi,1,—,$6.70,Online
+TXN-2023-000075,CUST-0140,"Apr 21, 2023",Candles,F,25,ALBERTA - Lethbridge,1,36.37,16.0,Online
+TXN-2023-000114,CUST-0169,01-Jul-2023,Candles,U,43,"Ottawa,Ontario",-1,-6.07,-6.79,Online
+TXN-2023-000599,CUST-0043,2023.02.15,Candles,MALE,49,Lethbridge / Alberta,-1,CAD -8.28,$-4.73,Online
+TXN-2024-000553,CUST-0114,26-Mar-2024,Hand Soap & Sanitizer,male,32,Ontario - Ottawa,1,CAD 5.78,2.51,Store
+Txn-2024-000391,CUST-0110,"Nov 10, 2024",Hand Soap & Sanitizer,MALE,53,Richmond / British Columbi,1,3.52,1.2,Store
+TXN-2024-000105,CUST-0210,23-Nov-2024,Body Care,FEMALE,56,"Saskatoon, Saskatchewan",2,$50.27,16.55,Online
+TXN-2024-000115,CUST-0233,11/26/2024,Body Care,female,33,Vaughan Ontari0,2,57.7,$17.91,Store
+TXN-2023-000418,CUST-0298,2023.12.02,Body Care,Female,33,"Corner Brook,Newfoundl& & Labrador",1,25.8,"8,69",Store
+TXN-2023-000526,CUST-0170,2023-09-16,Candles,Female,68,"London,Ontario",1,38.03,21.37,Online
+TXN-2023-000458,CUST-0202,21/01/2023,Body Care,M,46,"Moncton, New Brunswick",1, 19.93 CAD , 4.46 CAD ,Online
+TXN-2023-000410,CUST-0293,2023-07-18,Body Care,M,38,Red Deer / ab,1,CAD 28.40,12.47,Online
+TXN-2024-000093,CUST-0114,28-Mar-2024,Hand Soap & Sanitizer,N/A,40, Ontario - Ottawa ,2,$13.11,$5.61,Online
+TXN-2023-000931,CUST-0057,06-Oct-2023,Wallflower & Air Freshener,FEMALE,32, Kitchener-ONTARIO ,1,"15,10",5.91,Online
+TXN-2023-000090,CUST-0109,08/30/2023,Wallflower & Air Freshener,female,69,Mississauga (Ontario),1,16.28,$3.76,Online
+TXN-2023-000337,CUST-0306,"Aug 14, 2023",Body Care,F,17," Victoria,British Columbia ",1,19.87,10.25,Online
+TXN-2023-000581,CUST-0290,04-Jun-2023,Men's,MALE,N/A, St. John's / NL ,-1,-17.34,-9.01,Store
+TXN-2024-000922,CUST-0063,"Jul 20, 2024",Wallflower & Air Freshener,FEMALE,55,Longueuil (Quebec),3,$57.01,24.54,Store
+TXN-2024-000934,CUST-0014,"Jan 15, 2024",Men's,,20, BRITISH COLUMBIA - Burnaby ,1,42.24,14.87,Online
+TXN-2024-000606,CUST-0174 ,01/01/2024,Wallflower & Air Freshener,FEMALE,44,"Longueuil, Quebec",2,19.52,,Store
+TXN-2024-000594,CUST-0233,13/11/2024,Hand Soap & Sanitizer,MALE,70,Mississauga-ONTARIO,2,11.02,5.09,Store
+TXN-2023-000612,CUST-0181,10/8/2023,Wallflower & Air Freshener,U,28,Hamilton / Ontario,3,55.51,24.35,Online
+TXN-2023-000095,CUST-0129,2023-06-29,Hand Soap & Sanitizer,Male,42,Hamilton Ontario,4,CAD 78.28,CAD 28.73,Store
+TXN-2023-000012,CUST-0138,09/01/2023,Wallflower & Air Freshener,male,37, London  on ,2,59.73,31.45,Store
+TXN-2023-000397,CUST-0009,2023-12-09,Body Care,female,22,"Brandon, mb",1,27.58,10.57,Store
+TXN-2023-000534,CUST-0235,18-Aug-2023,Candles,female,46,"Kitchener,ON",2, 24.37 CAD ,$9.38,Store
+TXN-2024-000044,CUST-0105,2024.04.22,Hand Soap & Sanitizer,FEMALE,43,"Winnipeg, Manitoba",2,$12.05,4.08,Online
+TXN-2024-000043,CUST-0060,21-Nov-2024,Hand Soap & Sanitizer,Male,63,Surrey (British Columbia),2,CAD 34.16,$17.75,Store
+TXN-2023-000330,CUST-0178,2023-11-09,Men's,FEMALE,15,Ottawa on,1,28.35,11.95,Store
+TXN-2023-000168,CUST-0160,2023-07-10,Men's,N/A,71,Laval  qc,1,32.14,$16.35,Online
+TXN-2024-000498,CUST-0250,04-Dec-2024,Body Care,Male,65,"Halifax, Nova Scotia",1,33.81,11.75,Online
+TXN-2024-000877,CUST-0095 ,2024.12.14,Hand Soap & Sanitizer,M,31,Quebec - Laval,1,$3.94,1.99,Store
+TXN-2023-000598,CUST-0196,2023.01.27,Wallflower & Air Freshener,F,46,Surrey-BRITISH COLUMBIA,1,"20,42",N/A,Online
+TXN-2024-000757,CUST-0200,2024.03.01,Men's,F,27,Victoria (British Columbi),1,$9.42,3.28,Store
+TXN-2023-000101,CUST-0038,04/11/2023,Wallflower & Air Freshener,N/A,29,Kitchener (Ontari),1,CAD 10.32,4.9,Store
+TXN-2024-000427,CUST-0032,15/11/2024,Body Care,Male,26,"Ottawa,Ontari",1,27.91,CAD 14.08,Store
+TXN-2024-000179,CUST-0255,25/08/2024,Body Care,Male,73,Montreal / QUEBEC,1,CAD 12.93,6.42,Online
+TXN-2023-000445,CUST-0070,24-Apr-2023,Hand Soap & Sanitizer,MALE,68,Red Deer  Albert,1,CAD 13.94,6.71,Store
+TXN-2023-000417,CUST-0023,2023.08.25,Body Care,MALE,60,Ontario - Hamilton,1,28.4,8.64,Store
+TXN-2023-000871,CUST-0068 ,05/24/2023,Men's,U,N/A,"Sherbrooke, Qu3b3c",5,N/A,47.74,Online
+TXN-2024-000883,CUST-0048,2024-03-20,Hand Soap & Sanitizer,Female,67,Gatineau / Quebec,2,30.32,15.24,Online
+TXN-2023-000681,CUST-0111,2023-01-12,Body Care,N/A,65,"Red Deer,Alberta",2,25.75,"14,15",Store
+TXN-2023-000178,CUST-0155,26/10/2023,Candles,male,25,Ontario - Toronto,1,25.12,14.29,Store
+TXN-2024-000396,CUST-0163,"Dec 18, 2024",Hand Soap & Sanitizer,FEMALE,34,Saskatoon-Saskatchewan,3,CAD 29.24,CAD 15.23,Store
+TXN-2023-000912,CUST-0035,2023.06.11,Men's,M,44, Fredericton / NewBrunswick ,2,CAD 48.98,$12.37,Store
+TXN-2023-000794,CUST-0144,2023.03.01,Men's,F,64,Sherbrooke Quebec,1,$23.72,8.51,Online
+TXN-2024-000479,CUST-0238,19-Apr-2024,Hand Soap & Sanitizer,F,27,"Burnaby, British Columbia",1,15.8, 5.60 CAD ,Online
+TXN-2024-000685,CUST-0162,12/24/2024,Hand Soap & Sanitizer,FEMALE,45,"Lethbridge,Albert",4, 85.17 CAD ,38.96,Online
+TXN-2024-000384,CUST-0001,30/11/2024,Wallflower & Air Freshener,N/A,73,Lethbridge (Alberta),6,176.41,56.19,Online
+TXN-2023-000238,CUST-0066,21/04/2023,Hand Soap & Sanitizer,FEMALE,63,"Vaughan, Ontario",1,$13.61,6.78,Store
+TXN-2023-000752,CUST-0292,08/11/2023,Wallflower & Air Freshener,Male,13,British Columbia - Burnaby,3,34.77,10.99,Store
+TXN-2024-000258,CUST-0071,"Sep 25, 2024",Body Care,FEMALE,57,Toronto-on,3,21.98,10.88,Online
+TXN-2023-000539,CUST-0154,12-Jan-2023,Men's,Female,46,Longueuil / qc,5,75.66,$32.77,Online
+TXN-2024-000336,CUST-0230,2024-03-21,Wallflower & Air Freshener,M,65, ON - Mississauga ,4,46.62,CAD 22.49,Online
+TXN-2023-000016,CUST-0196,2023.06.04,Wallflower & Air Freshener,female,48,"Ottawa, Ontario",1,$26.96,CAD 9.36,Online
+TXN-2024-000325,CUST-0088,"Apr 27, 2024",Body Care,MALE,32,Ontario - Toronto,1,$28.96,15.79,Store
+TXN-2023-000759,CUST-0232,07/03/2023,Hand Soap & Sanitizer,female,58,Brampton on,2,$19.21,CAD 8.83,Online
+TXN-2024-000223,CUST-0137,20-Feb-2024,Men's,MALE,53," Burnaby,BC ",3,"80,74",30.08,Store
+TXN-2024-000180,CUST-0182,9/17/2024,Men's,MALE,27,"Victoria, British Columbi",4,36.74,18.59,Store
+TXN-2024-000442,CUST-0245,2024-02-30,Men's,Prefer not to say,31,Toronto / Ontario,1,$16.84,7.11,Store
+TXN-2024-000023,CUST-0311,29/01/2024,Men's,Male,47,Laval (Quebec),2,60.25,CAD 27.61,Online
+TXN-2023-000357,CUST-0125,2023.08.09,Candles,Male,44,"Halifax,Nova Scotia",2,58.97,23.74,Store
+TXN-2023-000667,CUST-0256,18-Apr-2023,Candles,female,29,"Winnipeg, Manitob",-2,$-15.55,"-23,03",Store
+TXN-2023-000862,CUST-0295,16-Aug-2023,Men's,F,16,Ontario - Windsor,5,131.86,$24.47,Store
+TXN-2023-000341,CUST-0127,2023.08.08,Hand Soap & Sanitizer,Male,69,Laval QUEBEC,1,6.98,$2.55,Online
+TXN-2024-000432,CUST-0318,25-Nov-2024,Men's,female,37,"Vancouver,BRITISH COLUMBIA",1,33.98,$16.45,Store
+TXN-2023-000552,CUST-0095,2023.10.02,Candles,Female,19,"Longueuil,QUEBEC",-2,-15.81,$-1.63,Store
+TXN-2024-000834,CUST-0089,2024-05-28,Men's,F,35,Calgary-Alberta,2,$55.82,$19.59,Online
+TXN-2024-000204,CUST-0271,03/03/2024,Men's,Male,25,Richmond-British Columbi,2,$20.06,8.91,Online
+TXN-2023-000631,CUST-0144,30/01/2023,Wallflower & Air Freshener,Female,27,Red Deer / Alberta,1,28.89, 10.91 CAD ,Online
+TXN-2023-000094,CUST-0272," Nov 17, 2023  ",Men's,female,14,Lethbridge  Alberta,2,66.86,26.02,Online
+TXN-2024-000559,CUST-0223,19-May-2024,Men's,Female,25,Quebec City  QC,4,$148.39,$57.58,Store
+TXN-2023-000069,CUST-0231,07/01/2023,Wallflower & Air Freshener,male,44,Mississauga  Ontari,-3,$-28.45,-10.43,Online
+TXN-2024-000623,CUST-0080,2024-02-07,Hand Soap & Sanitizer,F,67,Windsor  Ontario,1,"16,22",7.34,Store
+TXN-2024-000285,CUST-0239,13/07/2024,Body Care,FEMALE,18, Montreal (Quebec) ,1,25.9,9.13,Online
+TXN-2023-000845,CUST-0249,2023-03-27,Body Care,Male,58,Mississauga  Ontario,6,79.0,45.57,Store
+TXN-2023-000435,CUST-0258," Jun 27, 2023  ",Men's,male,29,"London, on",1,31.58,$15.84,Online
+TXN-2024-000154,CUST-0120,17/11/2024,Candles,F,19,Windsor-Ontario,1,65.4,28.36,Online
+TXN-2024-000076,CUST-0240,2024.11.15,Candles,F,41,"Kitchener, ONTARIO",2,CAD 54.67,22.43,Store
+TXN-2023-000731,CUST-0238,2023-12-08,Candles,M,57, Vaughan-on ,2,28.92,CAD 12.35,Online
+TXN-2023-000447,CUST-0091, 30-Dec-2023  ,Candles,FEMALE,29,"Hamilton, Ontari",1,31.88,$16.50,Store
+TXN-2023-000189,CUST-0029, 2023.05.02  ,Men's,M,70,Hamilton  Ontario,4,CAD 68.92,31.05,Online
+TXN-2023-000272,CUST-0139,06/03/2023,Men's,M,54,Halifax / NovaScotia,1,22.66,6.6,Online
+TXN-2023-000237,CUST-0038,07/20/2023,Men's,F,28,Gatineau  QUEBEC,3,CAD 58.96,16.83,Store
+TXN-2023-000488,CUST-0142,06-Mar-2023,Hand Soap & Sanitizer,Prefer not to say,65,Kelowna-bc,1,"14,64",6.2,Online
+TXN-2023-000118,CUST-0249,2023-10-21,Wallflower & Air Freshener,Female,34,Red Deer-Alberta,1, 5.87 CAD ,2.82,Store
+TXN-2023-000944,CUST-0155 ," Apr 25, 2023  ",Body Care,male,72,"London,on",1,9.37,2.55,Online
+TXN-2024-000513,CUST-0170,2024-04-08,Wallflower & Air Freshener,,60, Quebec City Quebec ,2,48.05,11.93,Store
+TXN-2024-000826,CUST-0099,14-Oct-2024,Body Care,N/A,N/A,Mississauga ONTARIO,1,$10.77,5.38,Store
+TXN-2024-000592,CUST-0111,2024.06.20,Body Care,MALE,49,Hamilton  Ontari,2,26.81,13.33,Online
+TXN-2024-000127,CUST-0052,2024-03-12,Wallflower & Air Freshener,Female,20,Montreal-QUEBEC,1,9.58,,Online
+TXN-2023-000117,CUST-0227,20/12/2023,Wallflower & Air Freshener,female,28,Longueuil-Quebec,2,43.41,22.31,Store
+TXN-2024-000474,CUST-0252,08/08/2024,Hand Soap & Sanitizer,Male,46,Laval  Quebec,1,"7,88",1.9,Store
+TXN-2024-000694,CUST-0117,25-Jan-2024,Body Care,MALE,69,Gatineau (QC),2,"49,99",28.94,Store
+TXN-2024-000058,CUST-0154,22-Oct-2024,Body Care,MALE,19,"Red Deer,Alb3rta",2,31.71, 16.58 CAD ,Online
+TXN-2024-000864,CUST-0188,09/04/2024,Body Care,,50,Windsor / Ontario,2,11.55,2.85,Online
+TXN-2024-000913,CUST-0145,2024.10.28,Candles,,24,Sherbrooke Quebec,3,107.58,35.39,Store
+TXN-2023-000370,CUST-0148,"Apr 04, 2023",Men's,FEMALE,46,Quebec City Quebec,6,189.93,CAD 74.75,Store
+TXN-2024-000269,CUST-0251,"Sep 03, 2024",Candles,female,71,Sherbrooke (Quebec),1,37.08,18.91,Online
+TXN-2023-000047,CUST-0077,12/12/2023,Body Care,Female,75,Calgary-ALBERTA,1, 35.82 CAD ,18.96,Store
+TXN-2024-000350,CUST-0215,03/14/2024,Men's,,33,Vaughan / ON,1,20.41,9.62,Store
+TXN-2024-000196,CUST-0171,2024.09.13,Candles,N/A,39,Windsor (Ontario),2, 84.77 CAD ,24.09,Store
+TXN-2023-000390,cust-0074,2023.03.16,Candles,F ,66, Richmond-BritishColumbia,1,52.85,23.84,Store
+TXN-2023-000835,Cust-0190,"May 26, 2023",Candles,Female,52," Kitchener, Ontario ",1,36.01,12.01,Store
+TXN-2023-000737,CUST-0319,2023-09-22,Body Care,U,38,Halifax  NOVA SCOTIA,3,50.61,23.69,Online
+TXN-2023-000264,CUST-0226,"Nov 24, 2023",Body Care,N/A,19,Winnipeg / MANITOBA,1,CAD 35.05,15.35,Online
+TXN-2024-000444,CUST-0187,02/06/2024,Men's,U,,QC - Montreal,1,20.66,10.48,Store
+TXN-2024-000676,CUST-0268,2024-04-14,Body Care,N/A,35,"St. John's, nl",1,CAD 4.63,2.18,Store
+TXN-2024-000305,CUST-0095,27/07/2024,Wallflower & Air Freshener,Male,21,Burnaby-British Columbia,2,54.46,13.05,Online
+TXN-2023-000342,CUST-0004,01/13/2023,Hand Soap & Sanitizer,U,52,Ontari - Mississauga,2,7.45,3.64,Online
+TXN-2024-000767,CUST-0264,09/08/2024,Men's,female,60,BritishC0lumbia - Victoria,2,36.98,11.05,Store
+TXN-2024-000150,CUST-0209,2024-02-05,Men's,male,33,Richmond  bc,-1,N/A,-3.06,Online
+Txn-2024-000125,CUST-0197,"Apr 04, 2024",Men's,F,74,Brampton  Ontario,3,24.02,11.88,Store
+TXN-2024-000787,CUST-0072,2024.05.27,Wallflower & Air Freshener,MALE,N/A," Mississauga,Ontari ",1,27.2,$9.31,Store
+TXN-2024-000051,CUST-0137,18-Mar-2024,Candles,M,N/A,"Sherbrooke, Quebe",2,37.86,16.55,Store
+TXN-2023-000354,CUST-0152,2023-12-20,Body Care,F,Thirty,Markham (Ontario),1,16.93,"6,36",Online
+TXN-2023-000928,CUST-0277,1/24/2023,Hand Soap & Sanitizer,M,31,Longueuil QUEBEC,4,76.35,30.51,Store
+TXN-2024-000143,CUST-0152,2024-08-26,Wallflower & Air Freshener,MALE,28,Red Deer-AB,2,30.2,"12,07",Online
+TXN-2023-000471,CUST-0197,2023.07.09,Hand Soap & Sanitizer,FEMALE,70,Richmond-BC,1,3.43,1.27,Online
+TXN-2024-000400,Cust-0105,2024.02.06,Men's,male,29,Charlottetown PRINCE EDWARD ISLAND,1,28.37, 7.52 CAD ,Store
+TXN-2024-000626,CUST-0028 ,"Jan 17, 2024",Candles,F,50,Quebec - Longueuil,4,64.88, 32.58 CAD ,Online
+TXN-2023-000321,CUST-0221,2023-01-31,Men's,F,50,Vancouver-BritishC0lumbia,2,CAD 46.70,23.37,Store
+TXN-2024-000020,CUST-0001 ,"Nov 27, 2024",Men's,,22,ON - Vaughan,1,CAD 11.41,$5.48,Online
+TXN-2023-000810,CUST-0006,2023-12-01,Men's,M,N/A,Red Deer AB,2,$23.29,$6.16,Store
+TXN-2024-000791,CUST-0096,2024.10.22,Candles,M,31,Sydney  NovaScotia,2,82.22,$32.07,Online
+TXN-2024-000809,CUST-0302,2024.09.24,Candles,male,22,Brandon-Manitoba,3,131.96,54.78,Store
+TXN-2024-000408,CUST-0242,"Dec 31, 2024",Body Care,Male,15,"Brampton, on",1,40.73,$25.49,Online
+TXN-2023-000538,CUST-0176,"Jun 01, 2023",Wallflower & Air Freshener,Male,55,"Hamilton,on",1,17.37,$7.39,Online
+TXN-2024-000621,CUST-0294,23/06/2024,Candles,Male,21,London / ONTARIO,1,47.98,$14.52,Online
+TXN-2023-000039,CUST-0136,16/12/2023,Candles,male,68,ONTARIO - London,1,$27.43,13.4,Online
+TXN-2024-000176,CUST-0111,03/24/2024,Hand Soap & Sanitizer,FEMALE,66,Kitchener (ON),2,12.23,CAD 5.06,Store
+TXN-2023-000246,CUST-0238 ,02/02/2023,Wallflower & Air Freshener,Female,30,Ontario - Kitchener,-2,-21.02,-5.95,Store
+TXN-2023-000829,CUST-0037,20-Jun-2023,Candles,N/A,24,"Windsor, ONTARIO",2,78.88,"30,43",Store
+TXN-2024-000668,CUST-0079,28/07/2024,Hand Soap & Sanitizer,MALE,73,qc - Montreal,1,13.04,CAD 4.42,Store
+TXN-2024-000755,CUST-0275,24/07/2024,Men's,Prefer not to say,25,Albert - Red Deer,1,12.27,$6.04,Store
+TXN-2023-000859,CUST-0083,2023.05.20,Hand Soap & Sanitizer,M,17,Markham  ONTARIO,1,CAD 8.18,"2,47",Online
+TXN-2024-000155,CUST-0129,2024-04-28,Men's,M,46,"Quebec City, qc",3,66.18,28.99,Store
+TXN-2024-000288,CUST-0042,2024.04.04,Men's,male,34,Quebec City QC,3,92.47,41.57,Online
+TXN-2023-000603,CUST-0286,16/06/2023,Men's,female,14,Lethbridge  Alberta,3,$74.68,30.1,Online
+TXN-2024-000570,CUST-0038,13-Jan-2024,Men's,M,14,Sherbrooke Quebec,2,,20.21,Online
+TXN-2024-000744,CUST-0034,"Jul 16, 2024",Men's,N/A,68,Kitchener (ON),1,9.58, 3.63 CAD ,Online
+TXN-2023-000018,CUST-0135, 2023.01.05  ,Body Care,F,70, Gatineau (Quebe) ,3, 23.18 CAD ,CAD 8.02,Store
+TXN-2023-000128,Cust-0174,12-Sep-2023,Hand Soap & Sanitizer,M,73, Ontari - Markham ,1,"16,59",6.19,Online
+TXN-2024-000323,CUST-0208,2024.10.26,Hand Soap & Sanitizer,Female,29, Ottawa / Ontario ,3, 31.37 CAD ,14.88,Online
+TXN-2024-000256,CUST-0061,6/20/2024,Men's,F,64,ONTARIO - Windsor,1,"41,03",16.42,Store
+TXN-2023-000658,CUST-0216,"Aug 04, 2023",Hand Soap & Sanitizer,male,45,"Saskatoon, SASKATCHEWAN",1, 11.16 CAD ,"5,84",Online
+TXN-2024-000384,CUST-0001,30/11/2024,Wallflower & Air Freshener,N/A,73,Lethbridge (Alberta),6,176.41,56.19,Online
+TXN-2023-000191,CUST-0260,"Sep 26, 2023",Men's,M,63,Victoria / BRITISH COLUMBIA,1,CAD 23.02,6.84,Online
+TXN-2023-000116,CUST-0001," Nov 10, 2023  ",Men's,M,69,nb - Saint John,1,41.7,13.08,Online
+TXN-2024-000617,CUST-0248,05/26/2024,Men's,U,67,Kitchener  Ontari0,5,143.88,"89,40",Store
+TXN-2023-000607,CUST-0308,2023-01-10,Wallflower & Air Freshener,F,36,Surrey / British Columbia,1,18.14,7.3,Online
+TXN-2024-000181,CUST-0236,09/05/2024,Body Care,FEMALE,68,"Kitchener,Ontario",1,$5.37,1.7,Store
+TXN-2024-000302,CUST-0155,20-Mar-2024,Candles,Male,19,Sydney (NOVA SCOTIA),1, 23.07 CAD , 10.04 CAD ,Store
+TXN-2023-000760,CUST-0104,2023-02-30,Body Care,FEMALE,25,"Laval, Quebec",2,15.8,8.75,Store
+TXN-2024-000713,CUST-0182,4/1/2024,Hand Soap & Sanitizer,Female,44,Kelowna (BritishColumbia),2,$27.48,16.01,Online
+TXN-2024-000724,CUST-0071,10/07/2024,Wallflower & Air Freshener,Female,62,"Gatineau,QC",1,5.09, 0.75 CAD ,Store
+TXN-2023-000686,CUST-0312,2023.03.24,Hand Soap & Sanitizer,Female,17,Kelowna (BRITISH COLUMBIA),1,$14.62,4.76,Store
+TXN-2024-000376,CUST-0149,2024.03.29,Hand Soap & Sanitizer,M,36,"Brandon,mb",2,11.04,3.78,Online
+TXN-2023-000518,CUST-0191,09/06/2023,Body Care,M,38,"Sherbrooke,QUEBEC",5,63.4, 31.44 CAD ,Online
+TXN-2024-000679,CUST-0252,"Dec 05, 2024",Candles,,55,"Calgary,Alberta",2,"106,03","42,40",Store
+TXN-2024-000046,CUST-0083,2024.09.07,Hand Soap & Sanitizer,MALE,52,"Sherbrooke, Quebec",2,4.12,1.97,Online
+TXN-2023-000910,CUST-0103,14-Nov-2023,Men's,Prefer not to say,57,Halifax NS,1,$19.08,7.04,Store
+TXN-2024-000158,CUST-0304,"Jul 26, 2024",Men's,Male,23,"Sydney, NovaScotia",5,151.29, 66.44 CAD ,Store
+TXN-2024-000852,CUST-0088,30/06/2024,Wallflower & Air Freshener,female,72,Gatineau-Quebec,3,90.83,31.63,Online
+TXN-2023-000172,CUST-0036,10-Mar-2023,Wallflower & Air Freshener,M,26,Windsor / ON,2,$15.53,N/A,Store
+TXN-2024-000017,CUST-0137,2024-04-15,Men's,female,55,Ottawa-ONTARIO,2,$46.70,25.23,Online
+TXN-2024-000512,CUST-0184,04/27/2024,Candles,Male,38,Victoria  BC,1,53.83,21.81,Online
+TXN-2023-000049,CUST-0287,2023.05.28,Hand Soap & Sanitizer,Female,42,Montreal-qc,1,12.74,$5.43,Online
+TXN-2023-000627,CUST-0235,06-Aug-2023,Candles,FEMALE,65,"Gatineau, Quebec",2,15.74,$7.12,Store
+TXN-2023-000941,CUST-0104,03-Feb-2023,Wallflower & Air Freshener,M,46,Burnaby / British Columbi,4,70.33,N/A,Online
+TXN-2024-000516,CUST-0185,"Jun 16, 2024",Hand Soap & Sanitizer,M,43,"Toronto, ON",1,4.24,1.89,Online
+TXN-2024-000433,CUST-0045,"Aug 10, 2024",Body Care,Male,51, Lethbridge / ALBERTA ,5,72.21,"38,23",Online
+TXN-2023-000481,CUST-0133,01/12/2023,Candles,F,39," London, ONTARIO ",4,169.25,105.16,Store
+TXN-2024-000284,CUST-0155,08/18/2024,Hand Soap & Sanitizer,female,64,Red Deer / Alberta,4,40.17,18.65,Store
+TXN-2024-000719,CUST-0286,06/05/2024,Body Care,female,72,Regina-Saskatchewa,2, 50.17 CAD ,23.25,Store
+TXN-2023-000878,CUST-0191,2023.01.17,Candles,Female,73, Brandon (Manitoba) ,4,"255,63",111.1,Online
+TXN-2023-000226,CUST-0315,10/10/2023,Hand Soap & Sanitizer,F,38,"Montreal,QC",2,11.67,"4,97",Online
+TXN-2023-000027,CUST-0110,08-Aug-2023,Wallflower & Air Freshener,MALE,70,Laval  qc,2,42.22,"20,83",Store
+TXN-2023-000843,CUST-0028,07/16/2023,Body Care,Male,26,Quebec City (QUEBEC),1,13.41, 5.94 CAD ,Online
+TXN-2024-000438,CUST-0029 ,2024.08.12,Men's,FEMALE,60,Burnaby-British C0lumbia,1,$7.99,2.97,Store
+TXN-2023-000230,CUST-0059 ,05-Dec-2023,Candles,Female,33," Corner Brook,NEWFOUNDLAND AND LABRADOR ",2,CAD 50.23,16.31,Store
+TXN-2024-000365,CUST-0215,5/17/2024,Wallflower & Air Freshener,FEMALE,74,Longueuil-QUEBEC,1,CAD 12.97,5.18,Store
+TXN-2023-000230,CUST-0059 ,05-Dec-2023,Candles,Female,33," Corner Brook,NEWFOUNDLAND AND LABRADOR ",2,CAD 50.23,16.31,Store
+TXN-2023-000038,CUST-0021,"Aug 16, 2023",Men's,Prefer not to say,45,Longueuil / Qu3b3c,2,67.21,26.95,Store
+TXN-2023-000639,CUST-0216,2023-10-29,Hand Soap & Sanitizer,F,53,nb - Fredericton,1,20.31,4.57,Online
+TXN-2024-000375,CUST-0292,2024.01.19,Body Care,male,,Brampton-Ontario,2,54.02,20.64,Online
+TXN-2023-000470,CUST-0291,2023-05-19,Candles,M,N/A,Ontari - Mississauga,4,147.83,75.86,Store
+TXN-2023-000200,CUST-0260,21-Sep-2023,Body Care,male,70,Sydney-Nova Scoti,2,16.23,3.68,Store
+TXN-2024-000851,CUST-0031,24/05/2024,Men's,M,17, Toronto  Ontari ,3,39.01,20.43,Online
+TXN-2024-000705,CUST-0242,11/24/2024,Wallflower & Air Freshener,female,63,Hamilton / on,1,35.04,$16.48,Store
+TXN-2023-000842,CUST-0100,16/03/2023,Body Care,MALE,13,Hamilton-ONTARIO,1,"18,39","7,34",Store
+TXN-2024-000195,Cust-0169,2024.04.06,Body Care,MALE,73,Regina (Saskatchewan),-2,-12.38, -7.56 CAD ,Store
+TXN-2023-000855,CUST-0223,2023.12.12,Hand Soap & Sanitizer,Female,31,"Edmonton, Alb3rta",1,16.71,CAD 3.77,Store
+TXN-2024-000865,CUST-0123,28-Jun-2024,Hand Soap & Sanitizer,U,19,Saskatoon / Saskatchewan,1,$11.69,3.85,Store
+TXN-2023-000504,CUST-0149,30-Nov-2023,Hand Soap & Sanitizer,female,43,Montreal-QUEBEC,1,3.55,1.29,Online
+TXN-2024-000541,CUST-0246,01-Aug-2024,Men's,female,39,"London,Ontari",1,$16.54,CAD 7.67,Online
+TXN-2024-000831,CUST-0050,2024.04.29,Hand Soap & Sanitizer,Female,44,Toronto Ontari,2,10.3,"3,32",Online
+TXN-2024-000580,CUST-0123,2024.12.25,Body Care,Female,48,Vaughan-ONTARIO,3,60.45,$33.46,Store
+TXN-2023-000790,CUST-0218,"Apr 10, 2023",Men's,FEMALE,75,Markham  Ontario,1,8.94,N/A,Store
+TXN-2023-000163,CUST-0221,12/07/2023,Candles,FEMALE,19,Vaughan  Ontario,3,$61.90,CAD 29.62,Online
+TXN-2023-000909,CUST-0034,28-May-2023,Body Care,M,54,Laval Quebe,2,,CAD 11.34,Online
+TXN-2024-000153,CUST-0125,2024.07.18,Hand Soap & Sanitizer,Female,48,Toronto / ON,-3,$-5.29,-1.22,Store
+TXN-2023-000802,CUST-0249,2023.04.24,Candles,M,18 yrs,Laval-QC,3,144.66,74.61,Store
+TXN-2024-000071,cust-0277,06/08/2024,Hand Soap & Sanitizer,N/A ,27," London,on",1,4.2,$1.27,Store
+TXN-2024-000756,CUST-0144,03/17/2024,Candles,FEMALE,50,Ottawa-Ontario,1,"21,56","5,95",Store
+TXN-2023-000112,CUST-0266,10/30/2023,Wallflower & Air Freshener,Male,69,"Charlottetown,PrinceEdwardIsland",4,57.93,$18.09,Online
+TXN-2024-000227,CUST-0082,24/10/2024,Men's,MALE,64,London-ON,2,19.8,7.57,Store
+TXN-2024-000689,CUST-0284,5/24/2024,Hand Soap & Sanitizer,,20,Montreal  QC,2,17.38,$8.13,Store
+TXN-2024-000104,CUST-0136,03/01/2024,Candles,Male,62,Moncton nb,1,55.73,31.78,Store
+TXN-2024-000422,CUST-0209,2024.09.19,Hand Soap & Sanitizer,female,49, Gatineau / Quebe ,1,3.6,"1,06",Store
+TXN-2023-000420,CUST-0202 ,03/21/2023,Hand Soap & Sanitizer,FEMALE,24,Hamilton / Ontario,1,11.73,7.34,Online
+TXN-2023-000751,CUST-0035 ,12/31/2023,Hand Soap & Sanitizer,female,twenty,NS - Sydney,3,45.22,15.49,Online
+TXN-2023-000587,CUST-0264,18/10/2023,Body Care,Male,Thirty,mb - Winnipeg,1,14.38,CAD 7.65,Online
+TXN-2024-000781,CUST-0032,11/11/2024,Wallflower & Air Freshener,Female,33,"Corner Brook, NewfoundlandandLabrador",1, 19.77 CAD ,CAD 7.79,Store
+TXN-2023-000673,CUST-0260,02-Jun-2023,Body Care,Male,34,QC - Gatineau,1,14.47,CAD 6.61,Online
+TXN-2023-000120,CUST-0079,13-Jun-2023,Body Care,female,40,Markham (Ontario),1,"27,92",$14.70,Online
+TXN-2023-000054,CUST-0205,2023-04-19,Men's,F,39,Burnaby-British Columbia,2,50.61,$21.90,Online
+TXN-2023-000152,CUST-0063,2023-04-10,Candles,Female,72,"Burnaby, British C0lumbia",2,CAD 40.56,CAD 13.38,Online
+TXN-2023-000404,CUST-0065,03-Oct-2023,Hand Soap & Sanitizer,M,59,"Mississauga, Ontari",1,13.4,"5,67",Online
+TXN-2024-000946,CUST-0240,21-May-2024,Candles,MALE,25,"Lethbridge, Alberta",1,14.81,CAD 5.15,Online
+TXN-2023-000208,CUST-0121,2023-04-04,Hand Soap & Sanitizer,male,69,"Longueuil, qc",2,31.82,12.07,Online
+TXN-2023-000659,CUST-0075,09/05/2023,Body Care,MALE,59,Brandon  MB,1,$10.44,5.86,Store
+TXN-2024-000844,CUST-0233,2024-02-28,Men's,F,25,Laval-Quebec,2,42.37,10.42,Store
+TXN-2024-000763,CUST-0060,08/23/2024,Men's,M,72,Sherbrooke Quebec,2,60.72, 28.09 CAD ,Store
+TXN-2024-000009,CUST-0233,22/01/2024,Hand Soap & Sanitizer,male,18 yrs,Kitchener (on),1,$3.56,2.37,Online
+TXN-2024-000808,CUST-0172,05/02/2024,Hand Soap & Sanitizer,,67,"Windsor,Ontario",2,31.93,11.91,Online
+TXN-2024-000037,CUST-0035,"May 22, 2024",Men's,F,32,Ottawa / Ontario,1,$25.41,8.38,Store
+TXN-2024-000453,CUST-0232,2024-10-31,Candles,male,41,ON - Brampton,-1,CAD -44.71,$-6.66,Store
+TXN-2024-000652,CUST-0203,25/11/2024,Wallflower & Air Freshener,FEMALE,46,"Longueuil,Quebe",3,48.76,27.2,Store
+TXN-2024-000254,CUST-0188,"Jul 11, 2024",Wallflower & Air Freshener,M,30,London / Ontario,2,41.86,16.81,Store
+ TXN-2024-000304,CUST-0196,14-Nov-2024,Hand Soap & Sanitizer,FEMALE,54,Toronto-ONTARIO,1,27.49,12.73,Online
+ TXN-2023-000747,CUST-0295,06/01/2023,Men's,MALE,30, Laval  Quebec ,1,16.7,CAD 8.33,Online
+TXN-2023-000572,CUST-0100,"Jul 27, 2023",Body Care,U,25,Windsor (Ontario),1,12.68,5.72,Online
+TXN-2023-000624,CUST-0278,2023-02-30,Body Care,FEMALE,57, British Columbia - Victoria ,1,32.21,9.84,Store
+TXN-2024-000733,CUST-0129 ,14-Sep-2024,Body Care,N/A,35,Sydney Nova Scotia,1,24.23,"7,95",Online
+TXN-2024-000892,CUST-0284,2024-10-18,Hand Soap & Sanitizer,female,16,Kitchener (Ontari),2,$24.21,9.78,Online
+TXN-2024-000263,CUST-0318,01/07/2024,Men's,Male,26, Mississauga ON ,2,$82.16,44.61,Online
+TXN-2023-000611,CUST-0019,16/04/2023,Candles,F,56,Windsor on,1,$24.68,10.89,Online
+Txn-2023-000298,CUST-0236, 31/03/2023  ,Candles,female,Thirty,Quebec City Quebec,2,"55,44",$32.47,Online
+TXN-2024-000415,CUST-0172,17-Feb-2024,Body Care,FEMALE,54,Fredericton (New Brunswic),3,63.13,17.35,Store
+TXN-2024-000151,CUST-0051,2024.05.16,Hand Soap & Sanitizer,male,28,"Halifax,NS",1,$12.43,$4.96,Online
+TXN-2024-000789,CUST-0224,2024-12-26,Wallflower & Air Freshener,N/A,13," Quebec City,Quebec ",1,31.82,10.68,Store
+TXN-2023-000641,CUST-0186,"Jan 31, 2023",Wallflower & Air Freshener,N/A,29,"Hamilton, on",1,34.09,7.99,Online
+TXN-2023-000890,CUST-0034,2023-01-11,Hand Soap & Sanitizer,F,26, Victoria (BRITISH COLUMBIA) ,2,$24.20,9.86,Online
+TXN-2023-000551,CUST-0027,"Nov 03, 2023",Men's,female,72,ON - London,1,CAD 39.49,22.68,Online
+TXN-2024-000887,Cust-0158,2024.12.28,Hand Soap & Sanitizer,F,29, Brandon  mb ,1,17.52,6.0,Online
+TXN-2024-000489,CUST-0308,30-Apr-2024,Body Care,female,59,Halifax-Nova Scotia,1,4.46,—,Online
+TXN-2023-000148,CUST-0156,2023-02-22,Body Care,F,27,Calgary-ab,2,CAD 30.26,$11.17,Online
+TXN-2023-000147,CUST-0238,19-Aug-2023,Body Care,MALE,20,Sherbrooke-QC,1,19.68,8.81,Online
+TXN-2023-000721,CUST-0055,12/10/2023,Candles,F,19,Mississauga (Ontari),1,CAD 18.62,11.27,Store
+TXN-2024-000932,CUST-0201,"Jan 30, 2024",Body Care,U,70, Ontario - Vaughan ,1,8.2,4.27,Online
+TXN-2023-000740,CUST-0076,08-Jul-2023,Candles,male,47,Charlottetown-PE,1,12.78,2.81,Store
+TXN-2023-000660,CUST-0129,2023-11-09,Candles,M,57,Mississauga / Ontari,2,$31.72, 13.73 CAD ,Online
+TXN-2024-000349,CUST-0194,"Jan 31, 2024",Wallflower & Air Freshener,U,40,"Sherbrooke,Quebec",2,"21,39",CAD 9.52,Store
+TXN-2023-000464,CUST-0302,2023.12.26,Wallflower & Air Freshener,F,18,"Vaughan,Ontari",-2,-35.76,-17.85,Store
+TXN-2023-000326,CUST-0271,25/02/2023,Body Care,N/A,16,Windsor  Ontari,3,32.47,$22.08,Store
+TXN-2023-000187,CUST-0039 ,02-Dec-2023,Candles,MALE,60, Windsor  ONTARIO ,1,24.11,16.39,Store
+TXN-2023-000124,CUST-0283,"Mar 07, 2023",Hand Soap & Sanitizer,female,33,London / Ontari,1,$13.06, 4.17 CAD ,Online
+TXN-2023-000854,CUST-0237,2023-10-04,Wallflower & Air Freshener,FEMALE,38,Longueuil / Quebec,1,CAD 28.27, 12.52 CAD ,Online
+TXN-2023-000609,CUST-0030,01-Aug-2023,Men's,MALE,24,"Sherbrooke, QUEBEC",2,$24.78,CAD 13.40,Store
+Txn-2023-000144,CUST-0286,2023-11-16,Wallflower & Air Freshener,FEMALE,13,Brampton (ON),1,36.47,12.82,Online
+TXN-2023-000173,CUST-0175,12/04/2023,Wallflower & Air Freshener,male,61,Nova Scotia - Sydney,4,22.26,9.26,Store
+TXN-2023-000198,CUST-0048,2023.02.12,Men's,female,56, QC - Quebec City ,1,25.07,12.33,Online
+TXN-2024-000610,CUST-0147,2024-02-30,Men's,M,75,Edmonton / Albert,1,$35.89,$15.09,Store
+TXN-2024-000280,CUST-0235 ,10-Jul-2024,Candles,Male,31,ON - London,1,$37.53,15.25,Online
+TXN-2023-000294,CUST-0017,"Jan 11, 2023",Wallflower & Air Freshener,N/A,43, Vancouver-British C0lumbi ,4,160.38,CAD 62.14,Online
+TXN-2023-000401,CUST-0123,06/10/2023,Wallflower & Air Freshener,M,27,Hamilton ONTARIO,1,17.69,4.34,Store
+TXN-2023-000123,CUST-0301,04/10/2023,Hand Soap & Sanitizer,MALE,42,Hamilton  Ontario,1,13.5,$5.44,Online
+TXN-2024-000184,CUST-0203,21-Dec-2024,Body Care,female,66,qc - Longueuil,2,$66.44,22.05,Online
+TXN-2023-000203,CUST-0100,30-Jun-2023,Wallflower & Air Freshener,U,32,Laval (QUEBEC),1,18.46,$9.26,Online
+TXN-2024-000439,CUST-0304,2024-02-30,Candles,male,18,"St. John's, NewfoundlandandLabrador",2,$128.48,42.77,Online
+TXN-2024-000247,CUST-0205,2024-02-30,Hand Soap & Sanitizer,female,51,Sherbrooke Quebec,1,$9.25,3.89,Store
+TXN-2024-000416,CUST-0272,"Sep 28, 2024",Candles,MALE,43,Moncton-NB,2,25.69,"9,78",Store
+TXN-2024-000933,CUST-0032,2024.07.24,Hand Soap & Sanitizer,F,51,bc - Burnaby,1,13.22,7.32,Store
+TXN-2023-000766,CUST-0140,09/06/2023,Body Care,female,50,"Gatineau, QC",2,8.92, 2.16 CAD ,Store
+TXN-2023-000907,CUST-0058,2023-03-02,Wallflower & Air Freshener,FEMALE,68,"Montreal,Quebe",2,46.53,12.85,Store
+TXN-2024-000836,CUST-0314,13/10/2024,Body Care,M,25,Mississauga ONTARIO,1, 13.73 CAD ,$4.25,Online
+TXN-2023-000888,CUST-0148,25-Jul-2023,Wallflower & Air Freshener,U,26,"Regina,Saskatchewan",1,CAD 19.78,6.82,Store
+TXN-2023-000130,CUST-0121,17/03/2023,Body Care,M,20,Longueuil QUEBEC,2,40.92,19.68,Online
+TXN-2023-000638,CUST-0196,"Feb 05, 2023",Body Care,Female,27,Brandon-Manitob,2,17.64,7.79,Online
+TXN-2023-000403,CUST-0071,06/07/2023,Body Care,MALE,18,Ottawa (Ontari0),1, 21.76 CAD ,$8.89,Store
+TXN-2024-000785,CUST-0184,08/24/2024,Men's,M,74,"Toronto,on",4,32.46,15.38,Store
+TXN-2023-000771,CUST-0102,"Jun 14, 2023",Hand Soap & Sanitizer,Male,54,Hamilton  ON,2,30.48,13.55,Store
+TXN-2024-000736,CUST-0159,10/19/2024,Hand Soap & Sanitizer,Female,60,Sydney-NS,2,26.7,9.83,Online
+TXN-2023-000914,CUST-0244,20-Jul-2023,Men's,N/A,13,Surrey BRITISH COLUMBIA,1,$8.62,$3.28,Online
+TXN-2023-000220,CUST-0279, 12/29/2023  ,Wallflower & Air Freshener,,38,Fredericton / New Brunswic,1,20.05,12.34,Online
+TXN-2023-000642,CUST-0129,04/06/2023,Candles,Male,16,Saskatoon SASKATCHEWAN,3,CAD 89.93,43.53,Store
+TXN-2024-000916,CUST-0239,2024.04.22,Body Care,N/A,34,NOVA SCOTIA - Sydney,2,45.69,$20.53,Store
+TXN-2023-000753,CUST-0243,14-Feb-2023,Wallflower & Air Freshener,Male,57,Kelowna-BRITISH COLUMBIA,2,"19,30",8.52,Store
+TXN-2023-000807,CUST-0162,2023-03-06,Wallflower & Air Freshener,female,45,"Markham,Ontari",1,19.1,6.15,Store
+TXN-2023-000920,CUST-0225,2023-04-21,Wallflower & Air Freshener,Female,56,"Calgary,ALBERTA",3,36.57,$12.63,Store
+TXN-2024-000625,CUST-0141,26/05/2024,Men's,male,45,Gatineau / QUEBEC,1,$37.63,CAD 17.75,Online
+TXN-2024-000875,CUST-0146 ,27/08/2024,Hand Soap & Sanitizer,Male,59,Surrey (British Columbia),1,11.77,,Online
+TXN-2024-000761,CUST-0079,10/21/2024,Men's,female,23,Markham (ONTARIO),2,14.57,5.84,Store
+TXN-2024-000387,CUST-0245,12/10/2024,Candles,Female,60,Vancouver  BritishColumbia,1,28.3, 13.37 CAD ,Store
+TXN-2023-000532,CUST-0281,2023-02-30,Hand Soap & Sanitizer,F,13, Laval-QC ,2,"12,03",CAD 4.83,Online
+TXN-2023-000510,CUST-0139,"Jan 12, 2023",Men's,M,29,Kelowna BritishColumbia,1,38.4,20.9,Store
+TXN-2023-000268,CUST-0143,02/11/2023,Candles,Prefer not to say,53,Surrey (British Columbi),1,"32,90",11.09,Online
+TXN-2023-000820,CUST-0169,2023.06.30,Candles,M,21,Laval  Quebec,1,27.4,10.64,Online
+TXN-2024-000442,CUST-0245,2024-02-30,Men's,Prefer not to say,31,Toronto / Ontario,1,$16.84,7.11,Store
+TXN-2023-000497,CUST-0103,"Feb 23, 2023",Candles,FEMALE,29,ab - Edmonton,-1,-13.44,-4.96,Online
+TXN-2023-000113,CUST-0047,09/11/2023,Wallflower & Air Freshener,MALE,74,Quebec - Sherbrooke,2,57.18,$27.04,Online
+TXN-2024-000692,Cust-0089,12-Jun-2024,Wallflower & Air Freshener,F,15,Red Deer (Alberta),1,29.91,CAD 10.61,Online
+TXN-2024-000233,CUST-0178,2024.04.18,Hand Soap & Sanitizer,male,14,Montreal-Quebec,1,4.69,"1,83",Store
+TXN-2023-000870,CUST-0078,2023.02.19,Wallflower & Air Freshener,M,50,"Mississauga,Ontario",2,41.8,17.07,Store
+TXN-2023-000608,CUST-0312,06-Dec-2023,Body Care,FEMALE,38,London (ONTARIO),2,17.23,$7.90,Store
+ TXN-2024-000672,CUST-0080,03/18/2024,Men's,female,66,Alberta - Calgary,1,24.64,13.22,Online
+TXN-2024-000374,CUST-0220,2024.04.12,Men's,Male,61, Sherbrooke / Quebe ,1,26.5,CAD 9.60,Store
+TXN-2023-000452,CUST-0253,09/12/2023,Wallflower & Air Freshener,FEMALE,41,Saskatoon  SK,3,—,$26.05,Online
+TXN-2023-000843,CUST-0028,07/16/2023,Body Care,Male,26,Quebec City (QUEBEC),1,13.41, 5.94 CAD ,Online
+TXN-2023-000234,CUST-0261,2023-06-05,Hand Soap & Sanitizer,N/A,75,Mississauga-Ontari,1,CAD 8.51,$3.72,Store
+TXN-2024-000786,CUST-0163,"Feb 22, 2024",Wallflower & Air Freshener,MALE,28,Windsor / ONTARIO,1,20.65, 11.00 CAD ,Online
+TXN-2023-000677,CUST-0249,2023-04-18,Body Care,,21,"Brampton,Ontario",1,23.53,8.38,Store
+TXN-2024-000318,CUST-0035,2024-09-02,Candles,N/A,50,Sherbrooke  Quebec,1,36.99,21.07,Store
+TXN-2023-000649,CUST-0080,6/16/2023,Hand Soap & Sanitizer,F,twenty,Kitchener-Ontario,2,19.91,$8.44,Online
+TXN-2023-000411,CUST-0206,"Feb 15, 2023",Body Care,male,N/A, Vaughan Ontario ,2,12.49,$6.44,Store
+TXN-2024-000899,CUST-0150, 2024.11.21  ,Hand Soap & Sanitizer,Female,53,Toronto-Ontari,1,$3.89,$1.97,Store
+TXN-2024-000710,CUST-0261,10/16/2024,Wallflower & Air Freshener,FEMALE,60,Brampton Ontari,2,CAD 42.86,17.76,Store
+TXN-2024-000359,CUST-0231,"Jul 14, 2024",Candles,F,70, Windsor / Ontario ,2,$49.91,22.53,Online
+TXN-2023-000259,CUST-0164," Mar 10, 2023  ",Men's,female,65,Qu3b3c - Laval,2,47.13,20.73,Store
+TXN-2024-000745,CUST-0212,18-Dec-2024,Men's,Male,59,"London, Ontario",1,CAD 13.39,,Store
+TXN-2024-000628,CUST-0195,12/16/2024,Candles,male,18,Toronto (Ontario),1,$31.89,10.02,Store
+TXN-2023-000633,CUST-0091,"Sep 24, 2023",Body Care,Male,21,New Brunswic - Saint John,2,9.03,4.03,Online
+TXN-2024-000283,CUST-0128,04/03/2024,Hand Soap & Sanitizer,FEMALE,35,Richmond  bc,3,CAD 23.45,11.14,Store
+TXN-2023-000377,CUST-0065,12/11/2023,Hand Soap & Sanitizer,Female,43, New Brunswick - Moncton ,1,4.13,$1.40,Store
+TXN-2023-000385,CUST-0048 ,06/18/2023,Hand Soap & Sanitizer,M,49,Quebec City-Quebec,2,33.07,16.16,Online
+TXN-2024-000225,CUST-0309,15/11/2024,Wallflower & Air Freshener,FEMALE,72,Hamilton  Ontario,1,15.17,6.33,Online
+TXN-2024-000307,CUST-0170,"Jan 14, 2024",Candles,male,19,Hamilton / ON,2,63.93,26.48,Store
+TXN-2024-000815,CUST-0032,"Dec 23, 2024",Hand Soap & Sanitizer,male,58,Montreal (QC),2,$25.82,6.21,Online
+TXN-2023-000473,CUST-0138,2023-09-17,Wallflower & Air Freshener,male,19,Halifax (Nova Scoti),1, 14.16 CAD ,CAD 6.68,Online
+TXN-2023-000348,CUST-0072,19/04/2023,Wallflower & Air Freshener,female,23,Sherbrooke-Quebec,2,24.07,12.19,Online
+TXN-2024-000506,CUST-0109,2024.10.01,Candles,Female,35,ON - Brampton,1,31.02,16.91,Store
+TXN-2023-000640,CUST-0163,30-Nov-2023,Hand Soap & Sanitizer,male,27,"Brampton,Ontario",2,$12.95,"5,67",Online
+TXN-2023-000858,CUST-0068,12/27/2023,Candles,Female,73,Lethbridge Alberta,2,,14.66,Online
+TXN-2023-000929,CUST-0162,"Apr 10, 2023",Wallflower & Air Freshener,FEMALE,20,"Richmond, BC",1,$31.94,16.08,Online
+TXN-2023-000906,CUST-0073 ,05/16/2023,Candles,N/A,40,Brampton-on,2,43.24,22.96,Store
+TXN-2024-000620,CUST-0205,2024-06-26,Body Care,Male,74,ONTARIO - Hamilton,2,"22,98",12.07,Online
+TXN-2024-000856,Cust-0021,23-Apr-2024,Body Care,F,56,"Kitchener,ONTARIO",2,23.15,9.81,Online
+TXN-2023-000804,CUST-0296,2023-11-25,Candles,male,64,Edmonton Albert,1,CAD 16.44,9.43,Online
+TXN-2023-000646,CUST-0244,2023.01.10,Hand Soap & Sanitizer,male,58,London  Ontario,1,4.45,1.48,Online
+TXN-2024-000847,CUST-0051,23-Sep-2024,Candles,U,42,Red Deer / Albert,1,"34,36",11.08,Store
+TXN-2024-000557,CUST-0165,2024-02-30,Candles,,34,"Laval, qc",2,CAD 87.29,51.83,Store
+TXN-2024-000865,CUST-0123,28-Jun-2024,Hand Soap & Sanitizer,U,19,Saskatoon / Saskatchewan,1,$11.69,3.85,Store
+TXN-2023-000578,CUST-0134,30-Jun-2023,Men's,Male,73,"St. John's,Newfoundland and Labrador",2,28.83,16.64,Online
+TXN-2024-000796,CUST-0263,2024.06.03,Wallflower & Air Freshener,male,72,BRITISH COLUMBIA - Richmond,3,83.23, 43.40 CAD ,Online
+TXN-2023-000086,CUST-0186,03-Jan-2023,Wallflower & Air Freshener,Male,55,Montreal-QUEBEC,5,"174,89",76.44,Online
+TXN-2023-000243,CUST-0296,28-Mar-2023,Body Care,Female,16,"Montreal,Quebe",2,15.19,5.63,Online
+TXN-2024-000699,CUST-0102,"Dec 12, 2024",Men's,N/A,64,Gatineau / Quebec,1,"33,02",12.41,Online
+TXN-2023-000160,CUST-0056,02-Sep-2023,Wallflower & Air Freshener,MALE,56, Sydney NS ,5,64.71, 30.60 CAD ,Online
+TXN-2024-000525,CUST-0259,"Oct 19, 2024",Candles,Male,39,Montreal  QC,1,16.64,7.21,Online
+TXN-2023-000036,CUST-0258,2023-05-01,Wallflower & Air Freshener,M,71,Victoria-British Columbi,1,"7,75",3.28,Store
+TXN-2024-000541,CUST-0246,01-Aug-2024,Men's,female,39,"London,Ontari",1,$16.54,CAD 7.67,Online
+Txn-2023-000171,CUST-0174 ,2023-11-09,Hand Soap & Sanitizer,Female,39,Red Deer-Albert,1,15.25,"6,80",Online
+TXN-2024-000655,Cust-0234,06/01/2024,Body Care,MALE,69,ab - Red Deer,1,5.49,2.3,Online
+TXN-2023-000891,CUST-0285,10-Oct-2023,Candles,Female,71,Richmond-bc,1,23.22,$6.79,Online
+TXN-2023-000858,CUST-0068,12/27/2023,Candles,Female,73,Lethbridge Alberta,2,,14.66,Online
+TXN-2023-000848,CUST-0038, 2023.05.19  ,Candles,FEMALE,34," Kitchener,ON ",4,144.32,$78.11,Online
+TXN-2023-000945,Cust-0320,13-May-2023,Hand Soap & Sanitizer,Male,25,Kitchener-ON,2,CAD 12.75,$7.12,Online
+TXN-2024-000734,CUST-0231,2024-11-22,Body Care,FEMALE,Thirty,"Winnipeg,MANITOBA",1,$15.31,CAD 8.72,Online
+TXN-2024-000096,CUST-0099,09-Jun-2024,Candles,U,58,Vaughan (Ontario),1,22.08, 12.17 CAD ,Store
+TXN-2024-000564,CUST-0145,"Jan 21, 2024",Body Care,U,39,"Longueuil, Quebe",4,65.58,23.82,Online
+TXN-2024-000241,CUST-0315,2024.10.13,Hand Soap & Sanitizer,Male,23,Mississauga-Ontario,4,CAD 11.97,4.84,Store
+Txn-2024-000743,CUST-0154,4/26/2024,Body Care,female,64,Halifax NOVA SCOTIA,2,48.44,$24.58,Online
+TXN-2024-000575,CUST-0229,08/12/2024,Wallflower & Air Freshener,FEMALE,47,Brandon Manitoba,3,76.15,$41.22,Online
+TXN-2023-000691,CUST-0293,2023.12.11,Body Care,Female,37,Laval Quebec,1,$18.27,"3,54",Online
+TXN-2024-000461,CUST-0136,13-Feb-2024,Wallflower & Air Freshener,MALE,64, ab - Lethbridge ,6,131.61, 51.20 CAD ,Store
+TXN-2024-000554,CUST-0317,2024.09.20,Candles,,32,QC - Laval,2,54.91,23.13,Online
+TXN-2024-000889,CUST-0307,13/08/2024,Men's,Female,74,Mississauga  Ontario,1,$36.03,"9,58",Store
+ TXN-2023-000207,CUST-0231,2023-02-27,Candles,MALE,75,"Ottawa,ON",4,$160.35,70.26,Online
+TXN-2023-000393,CUST-0142,19/05/2023,Candles,Prefer not to say,23,"Saskatoon, Saskatch3wa",2,$43.91,$23.51,Store
+TXN-2024-000795,CUST-0040,2024.07.30,Wallflower & Air Freshener,F,60,"Edmonton, Alberta",5,48.24,$13.80,Online
+TXN-2024-000398,CUST-0260 ,16-Sep-2024,Wallflower & Air Freshener,MALE,71,"Toronto,ONTARIO",2,23.26,8.7,Online
+TXN-2024-000767,CUST-0264,09/08/2024,Men's,female,60,BritishC0lumbia - Victoria,2,36.98,11.05,Store
+TXN-2024-000849,CUST-0313,2024-02-30,Candles,Female,33,QUEBEC - Quebec City,3,$86.86,$34.80,Online
+TXN-2023-000218,CUST-0246,12/06/2023,Wallflower & Air Freshener,M,38,Mississauga  Ontario,1,29.25,$15.66,Store
+TXN-2023-000005,CUST-0080,03/06/2023,Hand Soap & Sanitizer,,45,"London,ON",1,8.26,$2.72,Store
+TXN-2023-000769,CUST-0015,10-Sep-2023,Candles,F,59,"Calgary,AB",1,32.38, 13.08 CAD ,Online
+TXN-2023-000643,CUST-0243,2023-03-20,Body Care,FEMALE,28,Calgary Alberta,-5,-46.32,"-10,08",Store
+TXN-2023-000930,CUST-0156,"Jan 28, 2023",Men's,FEMALE,38,Quebec City (qc),1,33.03,—,Store
+TXN-2024-000613,CUST-0036,2024.07.03,Body Care,male,13,Quebec - Longueuil,1,8.47,2.93,Store
+ TXN-2023-000739,CUST-0041,14/07/2023,Wallflower & Air Freshener,male,40,Lethbridge / Alberta,4,"43,65",CAD 12.73,Store
+TXN-2023-000547,CUST-0227,29-Jan-2023,Men's,male,33,Quebec City / Quebe,1,18.84,$6.66,Store
+TXN-2023-000726,CUST-0225,30-Jan-2023,Candles,female,N/A,"Ottawa,on",1,62.2,$28.25,Online
+TXN-2023-000684,CUST-0093,2023.08.22,Candles,male,72,Calgary-Alberta,2,33.48, 13.55 CAD ,Online
+TXN-2024-000099,CUST-0053,2024.09.06,Wallflower & Air Freshener,female,34,Mississauga  ONTARIO,1,$8.85,2.81,Store
+TXN-2024-000805,CUST-0238,"May 02, 2024",Candles,male,19,Calgary / ALBERTA,1,47.82,23.33,Online
+TXN-2023-000728,CUST-0232,2023-01-28,Body Care,Male,64,"Fredericton,NewBrunswick",1,"12,03",4.75,Online
+TXN-2024-000574,CUST-0114,01/17/2024,Candles,male,38,qc - Laval,3,"105,20",30.31,Online
+TXN-2023-000407,CUST-0060,17-Apr-2023,Men's,F,70,"Ottawa, ON",2,"31,64",13.7,Store
+TXN-2023-000503,CUST-0053,2023.02.15,Candles,female,71,Burnaby bc,1,"27,27",6.13,Online
+TXN-2024-000048,CUST-0187,04/19/2024,Hand Soap & Sanitizer,Male,40,Vancouver / British Columbia,1,—,3.07,Store
+TXN-2023-000033,CUST-0206,16/03/2023,Candles,MALE,67,"Markham,ON",1,CAD 8.36,2.04,Store
+TXN-2023-000780,CUST-0158,2023-07-05,Candles,M,66," Markham,Ontario ",1,CAD 35.87,14.79,Online
+TXN-2023-000840,CUST-0215,2023.12.18,Hand Soap & Sanitizer,Male,42,Hamilton on,1, 18.98 CAD ,7.54,Store
+TXN-2024-000201,CUST-0079,17/07/2024,Wallflower & Air Freshener,Female,??,"Longueuil,QC",2,$52.17,15.56,Store
+TXN-2023-000135,CUST-0005,03/22/2023,Hand Soap & Sanitizer,Female,55,Richmond  BC,2,20.61,7.07,Online
+TXN-2023-000028,CUST-0049,01-Aug-2023,Candles,U,24," Corner Brook,Newfoundland and Labrador ",1,31.53,14.81,Store
+TXN-2023-000881,CUST-0290,06/22/2023,Candles,,70,Victoria  British Columbia,2,83.38,CAD 42.73,Online
+TXN-2023-000231,CUST-0135,13-Aug-2023,Body Care,U,15,Longueuil (qc),1,$18.19,$8.80,Online
+TXN-2024-000490,CUST-0152,"Sep 10, 2024",Wallflower & Air Freshener,FEMALE,13,"Montreal, QUEBEC",4,69.0,34.67,Online
+TXN-2023-000773,CUST-0201,21-Apr-2023,Hand Soap & Sanitizer,female,23,Quebe - Laval,3,36.21,24.48,Store
+TXN-2024-000379,CUST-0039,"Jan 30, 2024",Wallflower & Air Freshener,female,48, Quebec - Gatineau ,1,22.48,CAD 8.36,Store
+TXN-2023-000289,CUST-0259,2023.08.30,Men's,Male,54,on - Toronto,1,$31.02,11.41,Store
+TXN-2023-000419,CUST-0291,"Jan 02, 2023",Men's,Male,73,Montreal (qc),1,25.71,8.5,Store
+TXN-2024-000675,CUST-0314,02/12/2024,Candles,U,51, Ontario - Vaughan ,1,17.22,9.57,Online
+TXN-2023-000392,CUST-0072,2023.11.06,Body Care,FEMALE,26,"Ottawa,Ontario",1,39.21,N/A,Store
+TXN-2023-000593,CUST-0211,2023.04.21,Candles,Female,60,Mississauga (Ontario),1,$8.39,$2.65,Store
+TXN-2024-000499,CUST-0141,11/06/2024,Wallflower & Air Freshener,Female,62,Toronto ONTARIO,1,30.47,8.77,Store
+TXN-2024-000139,CUST-0255,08/12/2024,Men's,male,65,St. John's / nl,2,28.86,13.07,Online
+TXN-2023-000063,CUST-0318,2023-11-26,Men's,Male,29,Hamilton (Ontario),1,9.58,5.17,Online
+TXN-2024-000472,CUST-0074,2024-07-28,Wallflower & Air Freshener,MALE,18,Laval / Quebec,1,22.1,6.18,Online
+TXN-2023-000648,CUST-0277 ,2023-07-28,Wallflower & Air Freshener,U,32,Quebec - Laval,3,81.67,33.89,Store
+TXN-2024-000129,CUST-0195,24-Apr-2024,Men's,MALE,41,"Sherbrooke, Quebe",1,21.5,5.09,Online
+TXN-2024-000543,CUST-0083,23-Oct-2024,Hand Soap & Sanitizer,male,18,"Surrey, bc",-1,-4.59,-1.16,Online
+TXN-2023-000521,CUST-0195,2023.01.20,Men's,M,17,Mississauga-Ontari,1,CAD 35.99,15.17,Online
+TXN-2024-000839,CUST-0090,2024.06.23,Candles,Female,,Richmond BRITISH COLUMBIA,2,83.26,39.4,Store
+TXN-2023-000484,CUST-0308,08/01/2023,Candles,male,36,Sherbrooke (Quebec),-2,CAD -62.40,-24.9,Store
+TXN-2023-000065,CUST-0295,25-Jun-2023,Wallflower & Air Freshener,FEMALE,39,"Gatineau,QUEBEC",1,11.77,"5,21",Store
+TXN-2023-000813,CUST-0095,15-Sep-2023,Men's,Female,63, Lethbridge (Alberta) ,2,CAD 14.64,$5.48,Store
+TXN-2024-000015,CUST-0057,11-May-2024,Body Care,N/A,58,"Montreal,Quebe",2,—,21.69,Store
+TXN-2024-000157,CUST-0270,16-Feb-2024,Wallflower & Air Freshener,M,68,Surrey  BRITISH COLUMBIA,3,63.9,21.09,Store
+TXN-2023-000041,CUST-0036,09/18/2023,Hand Soap & Sanitizer,female,74,Mississauga  on,6, 54.03 CAD ,—,Store
+TXN-2024-000493,CUST-0287,11-Apr-2024,Hand Soap & Sanitizer,Prefer not to say,32,Mississauga Ontario,1,6.77,$1.96,Store
+TXN-2024-000380,CUST-0168 ,17-Dec-2024,Wallflower & Air Freshener,F,64,Markham  Ontario,2,54.21,26.56,Store
+TXN-2023-000188,CUST-0078 ,2023-10-19,Hand Soap & Sanitizer,FEMALE,52,Red Deer (ALBERTA),2,35.7,$4.59,Online
+TXN-2023-000764,CUST-0024,2023.10.28,Wallflower & Air Freshener,male,75,London (ON),1,13.66,7.15,Store
+TXN-2024-000217,CUST-0054,14/03/2024,Candles,F,66, Ontario - London ,6,173.7,59.09,Online
+TXN-2024-000792,CUST-0257,"Sep 16, 2024",Candles,female,45,"Sherbrooke, QC",2,$65.19,27.24,Online
+TXN-2024-000053,CUST-0099,05/14/2024,Body Care,male,21,Moncton New Brunswic,2,N/A,5.61,Online
+TXN-2023-000879,CUST-0208,13/01/2023,Body Care,FEMALE,33, Ottawa-Ontario ,2,29.85,$14.34,Online
+TXN-2023-000338,CUST-0287,2023.10.24,Body Care,Female,22,"Kitchener,Ontario",1,22.29,7.8,Store
+TXN-2024-000749,CUST-0239,27-Jan-2024,Body Care,Female,69,"Montreal,Quebe",1,$14.33,4.81,Store
+TXN-2023-000720,CUST-0164," Sep 20, 2023  ",Body Care,female,67,Sherbrooke (QUEBEC),1,$9.04,$4.19,Online
+TXN-2024-000725,CUST-0212,11-Apr-2024,Hand Soap & Sanitizer,Male,60,Toronto / Ontari,1,7.16,3.18,Store
+TXN-2023-000296,CUST-0092,2023.11.03,Body Care,N/A,48,London / Ontario,2,CAD 61.55,$22.00,Online
+TXN-2023-000702,CUST-0180,2023.10.21,Candles,N/A,52,"Red Deer, ALBERTA",1,29.21,8.44,Online
+TXN-2024-000252,CUST-0299,2024-01-05,Candles,M,55,Brampton  Ontario,2,CAD 48.85,26.72,Online
+TXN-2023-000727,CUST-0312,04-Oct-2023,Body Care,Prefer not to say,46,"Richmond, BRITISH COLUMBIA",2,CAD 53.81,21.98,Online
+TXN-2024-000462,CUST-0096,2024-10-23,Hand Soap & Sanitizer,female,62,Gatineau  QUEBEC,3, 31.85 CAD ,CAD 13.07,Online
+TXN-2023-000456,CUST-0028,06/11/2023,Candles,Female,22," Lethbridge,ab ",1,37.81, 20.13 CAD ,Store
+TXN-2023-000846,cust-0167,21/07/2023,Men's,male ,45, Victoria bc,1,20.43,11.84,Online
+TXN-2024-000816,CUST-0226,"Apr 23, 2024",Candles,Male,41,"Laval,Quebec",1,35.59,"15,39",Store
+TXN-2023-000863,Cust-0187,2023-06-29,Men's,U,14,Toronto  Ontario,2,42.53,19.07,Store
+TXN-2024-000270,CUST-0294,"Aug 04, 2024",Body Care,Prefer not to say,66,Hamilton-Ontari,1,19.96,N/A,Online
+TXN-2024-000202,CUST-0228,11-Jan-2024,Candles,FEMALE,29,London / on,1,20.06,$8.99,Online
+TXN-2023-000162,CUST-0272,"Nov 23, 2023",Men's,FEMALE,57, Kitchener ON ,1,CAD 48.48,$25.24,Online
+TXN-2024-000556,CUST-0277,2024-10-08,Hand Soap & Sanitizer,female,22,Richmond  BritishColumbia,6,N/A,,Online
+TXN-2024-000730,CUST-0086,2024-02-30,Wallflower & Air Freshener,female,29,"Laval, Quebec",4,67.02,34.35,Online
+TXN-2024-000402,CUST-0312,2024-02-30,Men's,female,25,Markham-Ontario,1,32.68,$11.81,Store
+TXN-2024-000703,CUST-0192,23-Jan-2024,Candles,F,44,"Saskatoon, SK",1,16.79,$6.68,Store
+TXN-2023-000477,CUST-0207,2023.01.14,Men's,F,72,Sherbrooke / qc,1,$7.61,1.96,Store
+TXN-2024-000822,CUST-0291,12/28/2024,Body Care,female,72,"Markham, ONTARIO",2,12.33,5.02,Online
+TXN-2024-000772,CUST-0159,"Jun 03, 2024",Wallflower & Air Freshener,Female,25,Calgary-ab,6,206.42,—,Online
+TXN-2024-000106,CUST-0145,2024-06-27,Hand Soap & Sanitizer,Female,34,Brampton / Ontario,3,16.92,8.27,Online
+TXN-2023-000566,CUST-0153,2023-05-27,Candles,Male,69,"Sherbrooke, QC",1,33.68,18.11,Online
+TXN-2023-000390,CUST-0074,2023.03.16,Candles,F,66,Richmond-BritishColumbia,1,52.85,23.84,Store
+TXN-2023-000002,CUST-0303,2023-01-22,Body Care,,49,Vaughan / ON,1,21.08, 8.61 CAD ,Online
+TXN-2023-000938,CUST-0216,2023-12-21,Men's,MALE,37,"Longueuil, Quebec",1,17.11,6.96,Online
+TXN-2023-000382,CUST-0166,04/15/2023,Hand Soap & Sanitizer,Female,34, Gatineau  Quebec ,1, 5.53 CAD ,CAD 2.77,Online
+TXN-2023-000562,CUST-0162,"Mar 19, 2023",Wallflower & Air Freshener,M,twenty,Kitchener Ontario,1,CAD 5.59,2.07,Store
+TXN-2023-000081,CUST-0289,"Sep 08, 2023",Body Care,male,54,Ontari - Markham,1,$4.92,2.09,Store
+TXN-2023-000206,CUST-0083,"Jun 26, 2023",Body Care,Female,29,"Burnaby,British Columbi",2,27.97,7.08,Online
+TXN-2023-000035,CUST-0030,14-Jul-2023,Candles,female,61,"Laval, QC",5,152.54,CAD 56.00,Store
+TXN-2024-000776,CUST-0167,04/23/2024,Body Care,FEMALE,74," Richmond,BRITISH COLUMBIA ",2,10.68,CAD 5.45,Store
+TXN-2023-000509,CUST-0106,05/17/2023,Candles,MALE,40,Richmond British Columbia,2,$24.07,7.85,Store
+TXN-2024-000428,CUST-0299,2024-12-11,Body Care,F,31,London / ON,1,34.01,10.32,Online
+TXN-2024-000455,CUST-0174,28-May-2024,Body Care,M,22,Victoria-BRITISH COLUMBIA,1,17.24,5.88,Online
+TXN-2023-000367,CUST-0318,04/14/2023,Wallflower & Air Freshener,,42,Laval-QUEBEC,1,CAD 18.96,6.97,Store
+TXN-2024-000092,CUST-0124 ,31-May-2024,Men's,FEMALE,??,"Markham, Ontari",2,22.26,11.29,Online
+TXN-2024-000340,CUST-0142,03/04/2024,Wallflower & Air Freshener,FEMALE,14,Surrey British Columbi,2,$21.65,7.91,Online
+TXN-2023-000898,CUST-0028,09/10/2023,Candles,FEMALE,19,Ontario - London,4,$67.97,23.39,Online
+TXN-2024-000565,CUST-0274,07/05/2024,Candles,FEMALE,75,Gatineau (Quebe),1,$19.30,4.47,Store
+TXN-2023-000346,CUST-0304,06-Aug-2023,Candles,F,18,Windsor  Ontario,1,16.18,$7.39,Store
+TXN-2024-000777,CUST-0125,"Nov 03, 2024",Men's,MALE,24,QC - Quebec City,1,49.26,27.94,Store
+TXN-2024-000242,CUST-0310,2024.01.02,Men's,,71,"Mississauga, Ontari",3,$71.50,24.87,Online
+TXN-2023-000014,CUST-0299, 10/10/2023  ,Wallflower & Air Freshener,N/A,58,Longueuil  qc,1,17.49, 8.03 CAD ,Online
+TXN-2024-000316,CUST-0087,08/04/2024,Wallflower & Air Freshener,Female,35,Markham  Ontario,2,47.74,25.34,Online
+TXN-2023-000601,CUST-0210,2023-02-06,Hand Soap & Sanitizer,Male,24,Sherbrooke (QUEBEC),1,$19.50,6.11,Online
+TXN-2024-000388,CUST-0176,"Jan 22, 2024",Body Care,Female,20,Vancouver BRITISH COLUMBIA,1,17.7,6.45,Store
+TXN-2023-000274,CUST-0242,02-Mar-2023,Hand Soap & Sanitizer,Male,44,Gatineau-QC,-1,-4.25,-2.22,Store
+TXN-2023-000167,CUST-0211,22-Jan-2023,Body Care,FEMALE,16,"Sherbrooke, Quebe",2,46.25,15.69,Online
+TXN-2023-000841,CUST-0317,2023.04.24,Body Care,Male,33,Longueuil / QUEBEC,1,7.63,4.14,Online
+TXN-2024-000558,cust-0108,9/9/2024,Body Care,MALE ,50, Kelowna British Columbi,1,14.9,7.77,Store
+TXN-2024-000647,CUST-0091,01-Dec-2024,Men's,U,49,Surrey (BritishColumbia),1,26.3, 7.94 CAD ,Online
+TXN-2023-000819,CUST-0255,08-Jan-2023,Body Care,,33,"Regina,SK",5,"28,61",13.08,Store
+TXN-2024-000485,CUST-0193,"Jul 03, 2024",Wallflower & Air Freshener,female,53,Red Deer  ab,3,$75.98,"34,75",Online
+TXN-2024-000284,CUST-0155,08/18/2024,Hand Soap & Sanitizer,female,64,Red Deer / Alberta,4,40.17,18.65,Store
+TXN-2023-000505,CUST-0184,19/07/2023,Wallflower & Air Freshener,MALE,38,Laval / QC,1,24.45,CAD 9.70,Store
+TXN-2023-000832,CUST-0255,2023-10-04,Body Care,Male,49,SASKATCHEWAN - Saskatoon,1,"30,66",18.0,Store
+TXN-2024-000244,CUST-0255,22-Apr-2024,Body Care,Prefer not to say,71,Windsor / ONTARIO,1,7.84, 2.49 CAD ,Online
+TXN-2024-000567,CUST-0306,2024.07.01,Men's,M,46, Toronto / Ontario ,4,120.7,56.19,Online
+TXN-2023-000876,CUST-0083,2023-11-19,Candles,M,34,Mississauga-Ontario,4,"238,61",N/A,Store
+TXN-2023-000563,CUST-0184,5/8/2023,Body Care,male,32,Winnipeg (Manitob),5,62.71,34.31,Store
+TXN-2023-000687,CUST-0230,2023-05-11,Wallflower & Air Freshener,F,19,"Burnaby, British Columbia",1,4.71,1.71,Online
+TXN-2024-000190,CUST-0030,12/21/2024,Body Care,M,54,Markham Ontario,1,22.47,6.96,Online
+TXN-2023-000783,CUST-0292,"Apr 14, 2023",Hand Soap & Sanitizer,male,67,"London, ON",2,40.36,16.34,Online
+TXN-2023-000700,CUST-0137,05/01/2023,Body Care,M,19,"Quebec City,QC",1,$13.85,4.78,Online
+TXN-2024-000476,CUST-0192,2024.08.26,Men's,Male,75,Markham (ON),2,CAD 20.73,CAD 9.13,Store
+TXN-2024-000682,CUST-0270 ,2024.04.01,Candles,Female,19,"Quebec City,Quebec",1,31.02,14.16,Store
+TXN-2024-000511,CUST-0055,04/04/2024,Body Care,Female,25,Burnaby (British Columbi),1,$23.27,7.38,Online
+TXN-2024-000059,CUST-0284,12/05/2024,Hand Soap & Sanitizer,MALE,55,"Sherbrooke,Quebec",2,32.11,11.36,Store
+TXN-2024-000475,CUST-0214,10/03/2024,Hand Soap & Sanitizer,MALE,63,"London,on",1,8.45,$4.86,Store
+TXN-2023-000561,CUST-0295 ,12/27/2023,Body Care,FEMALE,29,Vaughan  ONTARIO,1,17.42,5.31,Store
+TXN-2023-000857,CUST-0232,26/05/2023,Body Care,F,66,"Markham, Ontario",2,57.95,22.15,Online
+TXN-2023-000748,CUST-0313 ,09-Jan-2023,Candles,female,51,"Markham, on",1,44.99,12.33,Store
+TXN-2024-000253,CUST-0147,2024-03-14,Wallflower & Air Freshener,MALE,72,Windsor (on),2,$27.98,11.86,Store
+TXN-2024-000022,CUST-0065,29-Aug-2024,Men's,MALE,23,Ottawa-Ontario,1,CAD 20.76,6.04,Store
+TXN-2024-000314,CUST-0284,03/22/2024,Hand Soap & Sanitizer,Male,37, qc - Montreal ,1,7.85,$3.21,Online
+TXN-2024-000460,CUST-0042,2024-11-30,Hand Soap & Sanitizer,Prefer not to say,34,"Quebec City,Quebe",2,55.0,CAD 25.51,Online
+TXN-2023-000161,CUST-0076,12/09/2023,Men's,female,68,BritishColumbia - Burnaby,1,15.2,7.47,Store
+TXN-2023-000277,CUST-0254,29-Jun-2023,Wallflower & Air Freshener,male,53,"Vancouver, BC",1,$7.30,3.34,Store
+TXN-2023-000028,CUST-0049,01-Aug-2023,Candles,U,24," Corner Brook,Newfoundland and Labrador ",1,31.53,14.81,Store
+TXN-2024-000192,CUST-0244,2024-05-19,Men's,MALE,16,ON - London,4,CAD 121.27,$40.08,Store
+TXN-2023-000386,CUST-0157,"Oct 04, 2023",Wallflower & Air Freshener,M,43,Montreal Quebec,1,20.72,9.44,Store
+TXN-2023-000806,Cust-0243,26/10/2023,Wallflower & Air Freshener,MALE,47,Lethbridge (AB),2,41.34,21.58,Online
+TXN-2023-000414,CUST-0078,"Jan 25, 2023",Candles,F,37,on - Vaughan,1,"39,38",$10.77,Store
+TXN-2023-000492,CUST-0154,15-Feb-2023,Men's,N/A,18 yrs,London  ON,1,22.58,$9.60,Store
+TXN-2023-000344,CUST-0091,11/1/2023,Hand Soap & Sanitizer,female,55,Gatineau  Quebec,1,4.67,CAD 1.13,Online
+TXN-2023-000770,CUST-0219,15/07/2023,Body Care,MALE,28,Alberta - Calgary,2, 23.42 CAD ,12.02,Online
+TXN-2023-000309,CUST-0171,2023-05-15,Candles,Female,43,Markham on,1,24.43,7.9,Online
+TXN-2023-000662,CUST-0243,24-Dec-2023,Candles,male,55,Vaughan-Ontario,2,73.16,—,Online
+TXN-2024-000131,CUST-0228,28-Feb-2024,Body Care,male,74," Sherbrooke, QC ",1,12.87,CAD 8.45,Store
+TXN-2024-000664,CUST-0027,2024-04-20,Hand Soap & Sanitizer,Female,33,"Quebec City,Quebec",2,"30,24",CAD 11.57,Store
+TXN-2023-000872,CUST-0012,2023.07.05,Body Care,male,62,QUEBEC - Quebec City,1,CAD 14.65,8.97,Store
+TXN-2024-000100,CUST-0095,01/21/2024,Hand Soap & Sanitizer,FEMALE,44,Markham ON,1,14.3,7.14,Store
+TXN-2023-000373,CUST-0225,06/12/2023,Body Care,Female,33,Ontari - London,-1,-5.42,-0.77,Store
+TXN-2024-000088,CUST-0045,"Apr 03, 2024",Candles,Male,57,London  Ontari,3,$134.50,CAD 44.45,Online
+TXN-2024-000459,CUST-0151,21/05/2024,Body Care,M,18,Kitchener / ON,1,"5,60",3.07,Online
+TXN-2024-000331,CUST-0315,05/29/2024,Men's,,56,Burnaby (British Columbia),1,12.19,$4.91,Online
+TXN-2024-000215,CUST-0035,12/26/2024,Hand Soap & Sanitizer,FEMALE,50, Longueuil  Quebe ,2,24.06,$10.32,Store
+TXN-2024-000467,CUST-0022,2024-08-05,Candles,FEMALE,66,Edmonton-ab,2,$20.03,9.28,Online
+TXN-2023-000122,CUST-0213,2023.07.15,Hand Soap & Sanitizer,male,56,"Vancouver, British Columbi",3,CAD 13.05,"6,26",Online
+TXN-2023-000615,CUST-0209,2023.01.17,Candles,M,15,Laval (Quebec),3,55.52, 16.88 CAD ,Store
+TXN-2024-000021,CUST-0030,2024.05.30,Candles,M,13,Burnaby  BC,4,178.56,91.53,Store
+TXN-2023-000701,CUST-0179,02/17/2023,Hand Soap & Sanitizer,male,69,"Lethbridge, Alberta",2,$19.51,8.89,Store
+TXN-2024-000072,CUST-0033 ,6/4/2024,Candles,FEMALE,43,Mississauga  Ontario,1,$17.34, 8.26 CAD ,Online
+TXN-2024-000107,CUST-0279,24-Jun-2024,Body Care,Female,42,Richmond-British Columbia,1,$37.62,15.65,Store
+TXN-2023-000271,CUST-0041,"Sep 05, 2023",Hand Soap & Sanitizer,female,, Toronto / ONTARIO ,2,"14,26",6.34,Online
+TXN-2023-000861,Cust-0171,2023-02-30,Wallflower & Air Freshener,male,66,Calgary (ALBERTA),2,$43.15,22.22,Store
+TXN-2023-000436,CUST-0113,09/23/2023,Men's,F,15,Brandon  Manitob,1,25.56,$11.14,Store
+TXN-2023-000103,CUST-0153,03/28/2023,Wallflower & Air Freshener,F,42, Richmond BritishColumbia ,1,6.21,3.42,Online
